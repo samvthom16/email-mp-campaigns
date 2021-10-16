@@ -1,0 +1,804 @@
+GSSID,constituency_id,title,first_name,surname,full_name,constituency,formal_salutation,parliament_email,constituency_email,full_name_url,constituency_url
+E14000631,0,Mrs,Sarah,Green,Sarah Green,Chesham and Amersham,Mrs Green,sarah.green.mp@parliament.uk,sarah.green.mp@parliament.uk,Sarah-Green,Chesham-and-Amersham
+S14000003,NULL,NULL,Anum,Qaisar-Javed,Anum Qaisar-Javed,Airdrie and Shotts,NULL,NULL,NULL,Anum-Qaisar-Javed,Airdrie-and-Shotts
+E14000720,65550,Ms,Diane,Abbott,Diane Abbott,Hackney North and Stoke Newington,Ms Abbott,diane.abbott.office@parliament.uk,,Diane-Abbott,Hackney-North-and-Stoke-Newington
+E14000957,65876,Sir,David,Amess,David Amess,Southend West,Sir David,amessd@parliament.uk,office@southendwestconservatives.com,David-Amess,Southend-West
+E14000903,65930,Rt Hon Sir,Kevin,Barron,Kevin Barron,Rother Valley,Sir Kevin,barronk@parliament.uk,woolleys@parliament.uk,Kevin-Barron,Rother-Valley
+E14000663,65863,Mrs,Margaret,Beckett,Margaret Beckett,Derby South,Mrs Beckett,margaret.beckett.mp@parliament.uk,,Margaret-Beckett,Derby-South
+E14000608,65909,Rt Hon,John,Bercow,John Bercow,Buckingham,Mr Bercow,bercowj@parliament.uk,,John-Bercow,Buckingham
+E14000824,65693,Sir,Paul,Beresford,Paul Beresford,Mole Valley,Sir Paul,annie.winsbury@parliament.uk,office@molevalleyconservatives.org.uk,Paul-Beresford,Mole-Valley
+E14000920,65793,Mr,Clive,Betts,Clive Betts,Sheffield South East,Mr Betts,officeofclivebettsmp@parliament.uk,,Clive-Betts,Sheffield-South-East
+E14000893,66005,Mr,Crispin,Blunt,Crispin Blunt,Reigate,Mr Blunt,crispinbluntmp@parliament.uk,,Crispin-Blunt,Reigate
+E14001055,65562,Sir,Peter,Bottomley,Peter Bottomley,Worthing West,Sir Peter,bottomleyp@parliament.uk,,Peter-Bottomley,Worthing-West
+E14000698,66033,Rt Hon,Ben,Bradshaw,Ben Bradshaw,Exeter,Mr Bradshaw,ben.bradshaw.mp@parliament.uk,,Ben-Bradshaw,Exeter
+E14000532,65892,Sir,Graham,Brady,Graham Brady,Altrincham and Sale West,Sir Graham,altsale@parliament.uk,office@altsaletory.demon.co.uk,Graham-Brady,Altrincham-and-Sale-West
+E14000621,65972,Rt Hon,Tom,Brake,Tom Brake,Carshalton and Wallington,Mr Brake,,info@tombrake.co.uk,Tom-Brake,Carshalton-and-Wallington
+E14000832,65594,Rt Hon,Nick,Brown,Nick Brown,Newcastle upon Tyne East,Mr Brown,nickbrownmp@parliament.uk,,Nick-Brown,Newcastle-upon-Tyne-East
+E14001036,65851,Ms,Karen,Buck,Karen Buck,Westminster North,Ms Buck,karen.buck.mp@parliament.uk,buckk@parliament.uk,Karen-Buck,Westminster-North
+E14000565,65966,Mr,Richard,Burden,Richard Burden,Birmingham,,,,,
+E14001005,NULL,Sir,Vincent,Cable,Vincent Cable,Twickenham,Sir Vince,,info@vincentcable.org.uk,Vincent-Cable,Twickenham
+E14001006,65868,Rt Hon,Alan,Campbell,Alan Campbell,Tynemouth,Sir Alan,alan.campbell.mp@parliament.uk,,Alan-Campbell,Tynemouth
+E14000575,65753,Mr,Ronnie,Campbell,Ronnie Campbell,Blyth Valley,Mr Campbell,ronnie.campbell.mp@parliament.uk,,Ronnie-Campbell,Blyth-Valley
+E14000975,65950,Sir,Bill,Cash,Bill Cash,Stone,Sir William,cashw@parliament.uk,orgsec.stonecons@btconnect.com,Bill-Cash,Stone
+E14000638,65885,Sir,Christopher,Chope,Christopher Chope,Christchurch,Sir Christopher,chopec@parliament.uk,office@christchurchconservatives.com,Christopher-Chope,Christchurch
+E14000908,65736,Rt Hon,Kenneth,Clarke,Kenneth Clarke,Rushcliffe,Mr Clarke,clarkek@parliament.uk,,Kenneth-Clarke,Rushcliffe
+E14000991,65789,Sir,Geoffrey,Clifton-Brown,Geoffrey Robert Clifton-Brown,The Cotswolds,Sir Geoffrey,cliftonbrowng@parliament.uk,info@gloucestershireconservatives.com,Geoffrey-Robert-Clifton-Brown,The-Cotswolds
+W07000070,66105,Rt Hon,Ann,Clwyd,Ann Clwyd,Cynon Valley,Ms Clwyd,ann.clwyd.mp@parliament.uk,jean.fitzgerald@parliament.uk,Ann-Clwyd,Cynon-Valley
+E14000710,65551,Mr,Vernon,Coaker,Vernon Coaker,Gedling,Mr Coaker,vernon.coaker.mp@parliament.uk,robertsc@parliament.uk,Vernon-Coaker,Gedling
+E14000969,65606,Ms,Ann,Coffey,Ann Coffey,Stockport,Ms Coffey,ann.coffey.mp@parliament.uk,dunbarb@parliament.uk,Ann-Coffey,Stockport
+E14000836,65918,Rt Hon,Yvette,Cooper,Yvette Cooper,Normanton,,,,,
+E14000763,65937,Rt Hon,Jeremy,Corbyn,Jeremy Corbyn,Islington North,Mr Corbyn,jeremy.corbyn.mp@parliament.uk,leader@labour.org.uk,Jeremy-Corbyn,Islington-North
+E14000578,65646,Sir,David,Crausby,David Crausby,Bolton North East,Sir David,crausbyd@parliament.uk,,David-Crausby,Bolton-North-East
+E14000790,66013,Mr,John,Cryer,John Cryer,Leyton and Wanstead,Mr Cryer,john.cryer.mp@parliament.uk,,John-Cryer,Leyton-and-Wanstead
+E14000651,65877,Mr,Jim,Cunningham,Jim Cunningham,Coventry South,Mr Cunningham,jim.cunningham.mp@parliament.uk,,Jim-Cunningham,Coventry-South
+E14000770,NULL,Sir,Ed,Davey,Ed Davey,Kingston and Surbiton,Sir Edward,edward.davey.mp@parliament.uk,edward@edwarddavey.co.uk,Ed-Davey,Kingston-and-Surbiton
+W07000047,66118,Mr,Geraint,Davies,Geraint Davies,Swansea West,Mr Davies,geraint.davies.mp@parliament.uk,,Geraint-Davies,Swansea-West
+E14000724,65671,Rt Hon,David,Davis,David Davis,Haltemprice and Howden,Mr Davis,david.davis.mp@parliament.uk,,David-Davis,Haltemprice-and-Howden
+N06000009,66132,Sir,Jeffrey,Donaldson,Jeffrey M. Donaldson,Lagan Valley,Sir Jeffrey,jeffrey.donaldson.mp@parliament.uk,jeffreydonaldsonmp@laganvalley.net,Jeffrey-M.-Donaldson,Lagan-Valley
+E14000980,NULL,Dr,David,Drew,David Drew,Stroud,Dr Drew,david.drew.mp@parliament.uk,daviddrew2017@gmail.com,David-Drew,Stroud
+E14000909,65833,Rt Hon Sir,Alan,Duncan,Alan Duncan,Rutland and Melton,Sir Alan,alan.duncan.mp@parliament.uk,,Alan-Duncan,Rutland-and-Melton
+E14000634,65721,Rt Hon,Iain,Smith,Iain Duncan Smith,Chingford and Woodford Green,Mr Duncan Smith,Iain.duncansmith.mp@parliament.uk,office@cwgca.org,Iain-Duncan-Smith,Chingford-and-Woodford-Green
+E14001010,65635,Ms,Angela,Eagle,Angela Eagle,Wallasey,Ms Eagle,eaglea@parliament.uk,,Angela-Eagle,Wallasey
+E14000708,65900,Ms,Maria,Eagle,Maria Eagle,Garston and Halewood,Ms Eagle,eaglem@parliament.uk,,Maria-Eagle,Garston-and-Halewood
+E14000690,65816,Mr,Clive,Efford,Clive Efford,Eltham,Mr Efford,effordc@parliament.uk,clive@cliveefford.org.uk,Clive-Efford,Eltham
+E14000793,66066,Mrs,Louise,Ellman,Louise Ellman,Liverpool,,,,,
+E14000894,65579,Mr,Nigel,Evans,Nigel Evans,Ribble Valley,Mr Evans,evansn@parliament.uk,ribblevalley@tory.org,Nigel-Evans,Ribble-Valley
+E14000791,66046,Mr,Michael,Fabricant,Michael Fabricant,Lichfield,Mr Fabricant,michael.fabricant.mp@parliament.uk,,Michael-Fabricant,Lichfield
+E14000918,65698,Sir,Michael,Fallon,Michael Fallon,Sevenoaks,Sir Michael,michael.fallon.mp@parliament.uk,office@sevenoakstory.org.uk,Michael-Fallon,Sevenoaks
+E14000559,65581,Rt Hon,Frank,Field,Frank Field,Birkenhead,Mr Field,fieldf@parliament.uk,edward.beardsley@parliament.uk,Frank-Field,Birkenhead
+E14000882,65917,Mr,Jim,Fitzpatrick,Jim Fitzpatrick,Poplar and Limehouse,Mr Fitzpatrick,jim.fitzpatrick.mp@parliament.uk,,Jim-Fitzpatrick,Poplar-and-Limehouse
+E14000667,65553,Rt Hon,Caroline,Flint,Caroline Flint,Don Valley,Ms Flint,caroline.flint.mp@parliament.uk,,Caroline-Flint,Don-Valley
+E14000850,65817,Rt Hon Dr,Liam,Fox,Liam Fox,North Somerset,Dr Fox,ione.douglas@parliament.uk,,Liam-Fox,North-Somerset
+E14000852,65605,Sir,Roger,Gale,Roger Gale,North Thanet,Sir Roger,galerj@parliament.uk,suzy@galemail.com,Roger-Gale,North-Thanet
+E14000760,65585,Mr,Mike,Gapes,Mike Gapes,Ilford South,Mr Gapes,mike.gapes.mp@parliament.uk,,Mike-Gapes,Ilford-South
+E14000592,65595,Mr,Barry,Gardiner,Barry Gardiner,Brent North,Mr Gardiner,barry.gardiner.mp@parliament.uk,,Barry-Gardiner,Brent-North
+E14000576,65841,Mr,Nick,Gibb,Nick Gibb,Bognor Regis and Littlehampton,Mr Gibb,gibbn@parliament.uk,,Nick-Gibb,Bognor-Regis-and-Littlehampton
+E14000631,65801,Dame,Cheryl,Gillan,Cheryl Gillan,Chesham and Amersham,Dame Cheryl,cheryl.gillan.mp@parliament.uk,shawmj@parliament.uk,Cheryl-Gillan,Chesham-and-Amersham
+E14000562,65597,Mr,Roger,Godsiff,Roger Godsiff,Birmingham,,,,,
+E14000860,65822,Mr,James,Gray,James Gray,North Wiltshire,Mr Gray,jamesgraymp@parliament.uk,,James-Gray,North-Wiltshire
+E14000536,65811,Rt Hon,Damian,Green,Damian Green,Ashford,Mr Green,damian.green.mp@parliament.uk,ashfordconservatives@btconnect.com,Damian-Green,Ashford
+E14000550,65687,Rt Hon,Dominic,Grieve,Dominic Grieve,Beaconsfield,Mr Grieve,dominic.grieve.mp@parliament.uk,office@beaconsfieldconservatives.co.uk,Dominic-Grieve,Beaconsfield
+E14000766,NULL,Mr,John,Grogan,John Grogan,Keighley,Mr Grogan,john.grogan.mp@parliament.uk,john@johngrogan.org.uk,John-Grogan,Keighley
+E14000779,65866,Mr,Fabian,Hamilton,Fabian Hamilton,Leeds North East,Mr Hamilton,fabian.hamilton.mp@parliament.uk,,Fabian-Hamilton,Leeds-North-East
+E14000907,65589,Rt Hon,Philip,Hammond,Philip Hammond,Runnymede and Weybridge,Mr Hammond,philip.hammond.mp@parliament.uk,office@runnymedeweybridgeconservatives.com,Philip-Hammond,Runnymede-and-Weybridge
+W07000042,66112,Rt Hon,David,Hanson,David Hanson,Delyn,Mr Hanson,david.hanson.mp@parliament.uk,robbinsh@parliament.uk,David-Hanson,Delyn
+E14000615,65913,Rt Hon,Harriet,Harman,Harriet Harman,Camberwell and Peckham,Ms Harman,harriet.harman.mp@parliament.uk,,Harriett-Mary-Morrison-Baldwin,Camberwell-and-Peckham
+E14000939,66051,Ms,John,Hayes,John Hayes,South Holland and The Deepings,Sir John,hayesj@parliament.uk,davieshm@parliament.uk,John-Hayes,South-Holland-and-The-Deepings
+E14000845,65840,Rt Hon,Oliver,Heald,Oliver Heald,North East Hertfordshire,Sir Oliver,oliver.heald.mp@parliament.uk,,Oliver-Heald,North-East-Hertfordshire
+E14001028,65588,Mr,John,Healey,John Healey,Wentworth and Dearne,Mr Healey,john.healey.mp@parliament.uk,,John-Healey,Wentworth-and-Dearne
+E14000765,66026,Rt Hon,Stephen,Hepburn,Stephen Hepburn,Jarrow,Mr Hepburn,hepburns@parliament.uk,hepburn4jarrow@btinternet.com,Stephen-Hepburn,Jarrow
+E14000540,65662,Mrs,Margaret,Hodge,Margaret Hodge,Barking,Dame Margaret,hodgem@parliament.uk,margarethodge@hotmail.co.uk,Margaret-Hodge,Barking
+E14001008,65825,Ms,Kate,Hoey,Kate Hoey,Vauxhall,Miss Hoey,hoeyk@parliament.uk,,Kate-Hoey,Vauxhall
+E14000800,65887,Mr,Kelvin,Hopkins,Kelvin Hopkins,Luton North,Mr Hopkins,hopkinsk@parliament.uk,,Kelvin-Hopkins,Luton-North
+E14000775,65869,Sir,George,Howarth,George Howarth,Knowsley,Mr Howarth,george.howarth.mp@parliament.uk,,George-Howarth,Knowsley
+E14000637,65792,Sir,Lindsay,Hoyle,Lindsay Hoyle,Chorley,Sir Lindsay,Lindsay.hoyle.mp@parliament.uk,goreb@parliament.uk,Lindsay-Hoyle,Chorley
+E14000734,65674,Ms,Bernard,Jenkin,Bernard Jenkin,Harwich and North Essex,Mr Jenkin,bernard.jenkin.mp@parliament.uk,info@hneca.co.uk,Bernard-Jenkin,Harwich-and-North-Essex
+E14001017,65874,Mr,Helen,Jones,Helen Jones,Warrington North,Ms Jones,jonesh@parliament.uk,,Helen-Jones,Warrington-North
+E14000693,66044,Mrs,Eleanor,Laing,Eleanor Laing,Epping Forest,Mrs Laing,eleanor.laing.mp@parliament.uk,efca@btinternet.com,Eleanor-Laing,Epping-Forest
+E14000707,65952,Sir,Edward,Leigh,Edward Leigh,Gainsborough,Sir Edward,edward.leigh.mp@parliament.uk,,Edward-Leigh,Gainsborough
+E14000865,65559,Mr,Chris,Leslie,Chris Leslie,Nottingham East,Mr Leslie,chris.leslie@parliament.uk,josie.tanvir@parliament.uk,Chris-Leslie,Nottingham-East
+E14001031,65716,Sir,Oliver,Letwin,Oliver Letwin,West Dorset,Sir Oliver,letwino@parliament.uk,jane.gordonbanks@parliament.uk,Oliver-Letwin,West-Dorset
+E14000612,65975,Mr,Ivan,Lewis,Ivan Lewis,Bury South,Mr Lewis,lewisi@parliament.uk,ivanlewis@burysouth.fsnet.co.uk,Ivan-Lewis,Bury-South
+E14000827,65556,Rt Hon Dr,Julian,Lewis,Julian Lewis,New Forest East,Dr Lewis, julian.lewis.mp@parliament.uk,,Julian-Lewis,New-Forest-East
+E14000538,65739,Rt Hon,David,Lidington,David Lidington,Aylesbury,Mr Lidington,david.lidington.mp@parliament.uk,office@aylesburyconservatives.com,David-Lidington,Aylesbury
+E14000897,NULL,Mr,Tony,Lloyd,Tony Lloyd,Rochdale,Mr Lloyd,tony.lloyd.mp@parliament.uk,electtonylloyd2010@googlemail.com,Tony-Lloyd,Rochdale
+E14000682,65780,Mr,Tim,Loughton,Tim Loughton,East Worthing and Shoreham,Mr Loughton,loughtont@parliament.uk,eastworthingandshoreham@tory.org,Tim-Loughton,East-Worthing-and-Shoreham
+E14000567,65804,Mr,Steve,McCabe,Steve McCabe,Birmingham,,,,,
+E14000823,66038,Ms,Siobhain,McDonagh,Siobhain McDonagh,Mitcham and Morden,Ms McDonagh,mcdonaghs@parliament.uk,siobhain@mmlp.org.uk,Siobhain-McDonagh,Mitcham-and-Morden
+E14000737,65912,Mr,John,McDonnell,John McDonnell,Hayes and Harlington,Mr McDonnell,mcdonnellj@parliament.uk,,John-McDonnell,Hayes-and-Harlington
+E14000664,65799,Sir,Patrick,McLoughlin,Patrick McLoughlin,Derbyshire Dales,Sir Patrick,patrick.mcloughlin.mp@parliament.uk,,Patrick-McLoughlin,Derbyshire-Dales
+E14000573,65679,Mr,Gordon,Marsden,Gordon Marsden,Blackpool South,Mr Marsden,gordonmarsdenmp@parliament.uk,,Gordon-Marsden,Blackpool-South
+E14000803,65901,Rt Hon,Theresa,May,Theresa May,Maidenhead,Mrs May,mayt@parliament.uk,office@maidenheadconservatives.com,Theresa-May,Maidenhead
+E14000849,66017,Rt Hon,Owen,Paterson,Owen Paterson,North Shropshire,Mr Paterson,patersono@parliament.uk,rose@repaterson.co.uk,Owen-Paterson,North-Shropshire
+E14000675,65701,Mr,Steve,Pound,Stephen Pound,Ealing North,Mr Pound,steve.pound.mp@parliament.uk,,Stephen-Pound,Ealing-North
+E14001048,65774,Rt Hon,John,Redwood,John Redwood,Wokingham,Mr Redwood,john.redwood.mp@parliament.uk,office@wokinghamconservatives.org.uk,John-Redwood,Wokingham
+E14000990,65976,Mr,Laurence,Robertson,Laurence Robertson,Tewkesbury,Mr Robertson,robertsonl@parliament.uk,,Laurence-Robertson,Tewkesbury
+E14000650,65575,Mr,Geoffrey,Robinson,Geoffrey Robinson,Coventry North West,Mr Robinson,robinsong@parliament.uk,,Geoffrey-Robinson,Coventry-North-West
+W07000060,NULL,Mr,Chris,Ruane,Chris Ruane,Vale of Clwyd,Mr Ruane,chris.ruane.mp@parliament.uk,chrisruane2017@gmail.com,Chris-Ruane,Vale-of-Clwyd
+E14000691,66050,Rt Hon,Joan,Ryan,Joan Ryan,Enfield North,Ms Ryan,joan.ryan.mp@parliament.uk,joanryan.labour@gmail.com,Joan-Ryan,Enfield-North
+E14000756,65624,Mr,Barry,Sheerman,Barry Sheerman,Huddersfield,Mr Sheerman,sheermanb@parliament.uk,osullivang@parliament.uk,Barry-Sheerman,Huddersfield
+E14000603,65852,Rt Hon,Keith,Simpson,Keith Simpson,Broadland,Mr Simpson,keithsimpsonmp@parliament.uk,organiser@broadlandconservatives.org.uk,Keith-Simpson,Broadland
+E14000577,65628,Mr,Dennis,Skinner,Dennis Skinner,Bolsover,Mr Skinner,skinnerd@parliament.uk,,Dennis-Skinner,Bolsover
+E14000817,65999,Rt Hon Sir,Nicholas,Soames,Nicholas Soames,Mid Sussex,Sir Nicholas,nicholas.soames.mp@parliament.uk,info@msca.org.uk,Nicholas-Soames,Mid-Sussex
+E14001016,66079,Rt Hon,John,Spellar,John Spellar,Warley,Mr Spellar,john.spellar.mp@parliament.uk,john.spellar@btconnect.com,John-Francis-Spellar,Warley
+E14000812,65932,Dame,Caroline,Spelman,Caroline Spelman,Meriden,Dame Caroline,,caroline@carolinespelman.com,Caroline-Spelman,Meriden
+E14000950,65775,Mr,Gary,Streeter,Gary Streeter,South West Devon,Mr Streeter,deans@parliament.uk,mail@garystreeter.co.uk,Gary-Streeter,South-West-Devon
+E14000571,65583,Mr,Graham,Stringer,Graham Stringer,Blackley and Broughton,Mr Stringer,graham.stringer.mp@parliament.uk,,Graham-Stringer,Blackley-and-Broughton
+E14000828,65815,Sir,Desmond,Swayne,Desmond Swayne,New Forest West,Sir Desmond,swayned@parliament.uk,desmondswayne@hotmail.com,Desmond-Swayne,New-Forest-West
+E14000881,65860,Sir,Robert,Syms,Robert Syms,Poole,Sir Robert,symsr@parliament.uk,symsr@pooleconservatives.org,Robert-Syms,Poole
+E14000732,65796,Mr,Gareth,Thomas,Gareth Thomas,Harrow West,Mr Thomas,gareth.thomas.mp@parliament.uk,gareth.thomas@harrowlabour.org,Gareth-Thomas,Harrow-West
+E14000679,65573,Rt Hon,Stephen,Timms,Stephen Timms,East Ham,Mr Timms,timmss@parliament.uk,stephen@stephentimms.org.uk,Stephen-Timms,East-Ham
+E14000583,66071,Mr,David,Tredinnick,David Tredinnick,Bosworth,Mr Tredinnick,tredinnickd@parliament.uk,,David-Tredinnick,Bosworth
+E14000740,66018,Mr,Jon,Trickett,Jon Trickett,Hemsworth,Mr Trickett,jon.trickett.mp@parliament.uk,jtrickett@jontrickett.org.uk,Jon-Trickett,Hemsworth
+E14000725,65915,Mr,Derek,Twigg,Derek Twigg,Halton,Mr Twigg,derek.twigg.mp@parliament.uk,,Derek-Twigg,Halton
+E14000796,65766,Mr,Stephen,Twigg,Stephen Twigg,Liverpool,,,,,
+E14000782,65807,Rt Hon,Keith,Vaz,Keith Vaz,Leicester East,Mr Vaz,vazk@parliament.uk,casework@live.co.uk,Keith-Vaz,Leicester-East
+E14000956,65580,Dr,Alan,Whitehead,Alan Whitehead,Southampton,,,,,
+E14000806,65661,Rt Hon,John,Whittingdale,John Whittingdale,Maldon,Mr Whittingdale,john.whittingdale.mp@parliament.uk,m.c.c.a@btconnect.com,John-Whittingdale,Maldon
+E14000668,65621,Rt Hon Dame,Rosie,Winterton,Rosie Winterton,Doncaster Central,Dame Rosie,rosie.winterton.mp@parliament.uk,,Rosie-Winterton,Doncaster-Central
+E14000777,65765,Rt Hon,Hilary,Benn,Hilary Benn,Leeds Central,Mr Benn,hilary.benn.mp@parliament.uk,boxj@parliament.uk,Hilary-Benn,Leeds-Central
+E14001002,66074,Rt Hon,David,Lammy,David Lammy,Tottenham,Mr Lammy,lammyd@parliament.uk,,David-Lammy,Tottenham
+E14000885,65673,Sir,Mark,Hendrick,Mark Hendrick,Preston,Sir Mark,mark.hendrick.mp@parliament.uk,warhurste@parliament.uk,Mark-Hendrick,Preston
+E14001030,66047,Mr,Adrian,Bailey,Adrian Bailey,West Bromwich West,Mr Bailey,baileya@parliament.uk,cromptonm@parliament.uk,Adrian-Bailey,West-Bromwich-West
+E14000941,65666,Mr,Richard,Bacon,Richard Bacon,South Norfolk,Mr Bacon,richardbaconmp@parliament.uk,reevet@parliament.uk,Richard-Bacon,South-Norfolk
+E14000544,65898,Mr,John,Baron,John Baron,Basildon and Billericay,Mr Baron,baronj@parliament.uk,turnerja@parliament.uk,John-Baron,Basildon-and-Billericay
+E14000859,65713,Sir,Henry,Bellingham,Henry Bellingham,North West Norfolk,Sir Henry,bellinghamh@parliament.uk,,Henry-Bellingham,North-West-Norfolk
+W07000079,66114,Mr,Kevin,Brennan,Kevin Brennan,Cardiff West,Mr Brennan,brennank@parliament.uk,simmonse@parliament.uk,Kevin-Brennan,Cardiff-West
+W07000052,66092,Mr,Chris,Bryant,Chris Bryant,Rhondda,Mr Bryant,bryantc@parliament.uk,morganke@parliament.uk,Chris-Bryant,Rhondda
+E14000841,65855,Rt Hon,Alistair,Burt,Alistair Burt,North East Bedfordshire,Mr Burt,alistair.burt.mp@parliament.uk,nebca@northeastbedsconservatives.com,Alistair-Burt,North-East-Bedfordshire
+N06000006,66129,Mr,Gregory,Campbell,Gregory Campbell,East Londonderry,Mr Campbell,fieldingm@parliament.uk,dupcoleraine@parliament.uk,Gregory-Campbell,East-Londonderry
+S14000051,14448,Rt Hon,Alistair,Carmichael,Alistair Carmichael,Orkney and Shetland,Mr Carmichael,carmichaela@parliament.uk,flettb@parliament.uk,Alistair-Carmichael,Orkney-and-Shetland
+E14000657,65985,Mr,Jon,Cruddas,Jon Cruddas,Dagenham and Rainham,Mr Cruddas,cruddasj@parliament.uk,mullanem@parliament.uk,Jon-Cruddas,Dagenham-and-Rainham
+W07000076,66106,Mr,Wayne,David,Wayne David,Caerphilly,Mr David,wayne.david.mp@parliament.uk,jonesli@parliament.uk,Wayne-David,Caerphilly
+E14000757,65592,Mr,Jonathan,Djanogly,Jonathan Djanogly,Huntingdon,Mr Djanogly,jonathan.djanogly.mp@parliament.uk,hollandn@parliament.uk,Jonathan-Djanogly,Huntingdon
+E14000834,65861,Mr,Paul,Farrelly,Paul Farrelly,Newcastle-under-Lyme,Mr Farrelly,paul.farrelly.mp@parliament.uk,hopwoodc@parliament.uk,Paul-Farrelly,Newcastle-under-Lyme
+E14000639,65759,Rt Hon,Mark,Field,Mark Field,Cities of London and Westminster,Mr Field,fieldm@parliament.uk,office@westminsterconservatives.co.uk,Mark-Field,Cities-of-London-and-Westminster
+E14000888,65795,Rt Hon,Mark,Francois,Mark Francois,Rayleigh and Wickford,Mr Francois,mark.francois.mp@parliament.uk,enquiries@rayleighandwickfordconservatives.com,Mark-Francois,Rayleigh-and-Wickford
+N06000007,NULL,Ms,Michelle,Gildernew,Michelle Gildernew,Fermanagh and South Tyrone,Ms Gildernew,michelle.gildernew.mp@parliament.uk,,Michelle-Gildernew,Fermanagh-and-South-Tyrone
+E14000694,65803,Rt Hon,Chris,Grayling,Chris Grayling,Epsom and Ewell,Mr Grayling,chris.grayling.mp@parliament.uk,,Chris-Grayling,Epsom-and-Ewell
+E14001007,65613,Dr,Boris,Johnson,Boris Johnson,Uxbridge and South Ruislip,Mr Johnson,boris.johnson.mp@parliament.uk,,Boris-Johnson,Uxbridge-and-South-Ruislip
+E14000840,65745,Mr,Kevan,Jones,Kevan Jones,North Durham,Mr Jones,kevanjonesmp@parliament.uk,,Kevan-Jones,North-Durham
+E14000683,65979,Rt Hon Sir,Greg,Knight,Greg Knight,East Yorkshire,Sir Greg,sothcottt@parliament.uk,secretary@gregknight.com,Greg-Knight,East-Yorkshire
+E14000848,65872,Rt Hon,Norman,Lamb,Norman Lamb,North Norfolk,Mr Lamb,lambn@parliament.uk,,Norman-Lamb,North-Norfolk
+E14000595,65620,Mr,Ian,Liddell-Grainger,Ian Liddell-Grainger,Bridgwater and West Somerset,Mr Liddell-Grainger,ianlg@parliament.uk,,Ian-Liddell-Grainger,Bridgwater-and-West-Somerset
+W07000044,66113,Mr,Ian,Lucas,Ian C Lucas,Wrexham,Mr Lucas,lucasi@parliament.uk,,Ian-C-Lucas,Wrexham
+E14000566,66028,Mr,Khalid,Mahmood,Khalid Mahmood,Birmingham,,,,,
+E14000546,65711,Mr,John,Mann,John Mann,Bassetlaw,Mr Mann,mannj@parliament.uk,,John-Mann,Bassetlaw
+E14000985,65703,Rt Hon,Andrew,Mitchell,Andrew Mitchell,Sutton Coldfield,Mr Mitchell,andrew.mitchell.mp@parliament.uk,info@suttoncoldfieldconservative.com,Andrew-Mitchell,Sutton-Coldfield
+E14000954,65956,Dr,Andrew,Murrison,Andrew Murrison,South West Wiltshire,Dr Murrison,murrisona@parliament.uk,packerj@parliament.uk,Andrew-Murrison,South-West-Wiltshire
+W07000041,66115,Mr,Albert,Owen,Albert Owen,Ynys Mon,Mr Owen,albert.owen.mp@parliament.uk,,Albert-Owen,Ynys-Mon
+E14000744,66003,Mr,Mark,Prisk,Mark Prisk,Hertford and Stortford,Mr Prisk,olivia.frost@parliament.uk,,Mark-Prisk,Hertford-and-Stortford
+E14000900,66077,Mr,Andrew,Rosindell,Andrew Richard Rosindell,Romford,Mr Rosindell,andrew.rosindell.mp@parliament.uk,andrew@rosindell.com,Andrew-Richard-Rosindell,Romford
+E14000949,65848,Mr,Andrew,Selous,Andrew Selous,South West Bedfordshire,Mr Selous,andrew.selous.mp@parliament.uk,,Andrew-Selous,South-West-Bedfordshire
+E14000678,65813,Sir,Hugo,Swire,Hugo Swire,East Devon,Sir Hugo,hugo.swire.mp@parliament.uk,,Hugo-Swire,East-Devon
+W07000043,66103,Mr,Mark,Tami,Mark Tami,Alyn and Deeside,Mr Tami,tamim@parliament.uk,,Mark-Tami,Alyn-and-Deeside
+E14001029,65983,Mr,Tom,Watson,Tom Watson,West Bromwich East,Mr Watson,tom.watson.mp@parliament.uk,,Tom-Watson,West-Bromwich-East
+E14000847,65642,Mr,Bill,Wiggin,Bill Wiggin,North Herefordshire,Mr Wiggin,bill.wiggin.mp@parliament.uk,,Bill-Wiggin,North-Herefordshire
+W07000057,66108,Mr,Hywel,Williams,Hywel Williams,Arfon,Mr Williams,hywel.williams.mp@parliament.uk,,Hywel-Williams,Arfon
+S14000054,14451,Mr,Pete,Wishart,Pete Wishart,Perth and North Perthshire,Mr Wishart,wishartp@parliament.uk,,Pete-Wishart,Perth-and-North-Perthshire
+E14000563,66072,Rt Hon,Liam,Byrne,Liam Byrne,Birmingham,,,,,
+N06000005,66128,Mr,Sammy,Wilson,Sammy Wilson,East Antrim,Mr Wilson,barronj@parliament.uk,,Sammy-Wilson,East-Antrim
+E14000534,65784,Mr,Nick,Herbert,Nick Herbert,Arundel and South Downs,Mr Herbert,,nick@nickherbert.com,Nick-Herbert,Arundel-and-South-Downs
+E14000545,65623,Rt Hon,Maria,Miller,Maria Miller,Basingstoke,Mrs Miller,maria.miller.mp@parliament.uk,,Maria-Miller,Basingstoke
+E14000813,65718,Ms,Nadine,Dorries,Nadine Dorries,Mid Bedfordshire,Ms Dorries,dorriesn@parliament.uk,,Nadine-Dorries,Mid-Bedfordshire
+E14000556,65934,Mr,Graham,Stuart,Graham Stuart,Beverley and Holderness,Mr Stuart,graham.stuart.mp@parliament.uk,graham@grahamstuart.com,Graham-Stuart,Beverley-and-Holderness
+E14000558,65611,Rt Hon,David,Evennett,David Evennett,Bexleyheath and Crayford,Mr Evennett,david.evennett.mp@parliament.uk,,David-Evennett,Bexleyheath-and-Crayford
+E14000569,65820,Ms,Helen,Goodman,Helen Goodman,Bishop Auckland,Ms Goodman,goodmanh@parliament.uk,,Helen-Goodman,Bishop-Auckland
+E14000584,65993,Mr,Tobias,Ellwood,Tobias Ellwood,Bournemouth East,Mr Ellwood,tobias.ellwood.mp@parliament.uk,,Tobias-Ellwood,Bournemouth-East
+E14000591,66065,Ms,Dawn,Butler,Dawn Butler,Brent Central,Ms Butler,dawn.butler.mp@parliament.uk,,Dawn-Butler,Brent-Central
+W07000073,66095,Mrs,Madeleine,Moon,Madeleine Moon,Bridgend,Mrs Moon,moonm@parliament.uk,,Madeleine-Moon,Bridgend
+E14000599,65839,Ms,Kerry,McCarthy,Kerry McCarthy,Bristol East,Ms McCarthy,kerry.mccarthy.mp@parliament.uk,,Kerry-McCarthy,Bristol-East
+E14000606,65639,Mr,Charles,Walker,Charles Walker,Broxbourne,Mr Walker,charles.walker.mp@parliament.uk,broxbourne@tory.org,Charles-Walker,Broxbourne
+E14000855,65565,Mr,Shailesh,Vara,Shailesh Vara,North West Cambridgeshire,Mr Vara,shailesh.vara.mp@parliament.uk,,Shailesh-Vara,North-West-Cambridgeshire
+E14000636,65886,Ms,Theresa,Villiers,Theresa Villiers,Chipping Barnet,Ms Villiers,,theresa@theresavilliers.co.uk,Theresa-Villiers,Chipping-Barnet
+W07000059,66100,Mr,David,Jones,David Jones,Clwyd West,Mr Jones,david.jones.mp@parliament.uk,bryan.george@parliament.uk,David-Jones,Clwyd-West
+E14000661,65924,Mr,Andrew,Gwynne,Andrew Gwynne,Denton and Reddish,Mr Gwynne,gwynnea@parliament.uk,,Andrew-Gwynne,Denton-and-Reddish
+E14001000,65904,Mr,Geoffrey,Cox,Geoffrey Cox,Torridge and West Devon,Mr Cox,coxg@parliament.uk,tellgeoffrey@geoffreycox.co.uk,Geoffrey-Cox,Torridge-and-West-Devon
+E14000669,65672,Rt Hon,Ed,Miliband,Ed Miliband,Doncaster North,Mr Miliband,ed.miliband.mp@parliament.uk,,Ed-Miliband,Doncaster-North
+E14000671,65806,Mr,Ian,Austin,Ian Austin,Dudley North,Mr Austin,austini@parliament.uk,,Ian-Austin,Dudley-North
+E14000641,66021,Dr,Roberta,Blackman-Woods,Roberta Blackman-Woods,City of Durham,Dr Blackman-Woods,woodsr@parliament.uk,hindmarchc@parliament.uk,Roberta-Blackman-Woods,City-of-Durham
+E14000726,65836,Mr,Andy,Slaughter,Andy Slaughter,Hammersmith,Mr Slaughter,andy.slaughter.mp@parliament.uk,andy@andyslaughter.com,Andy-Slaughter,Hammersmith
+E14000705,66064,Rt Hon,Mark,Harper,Mark Harper,Forest of Dean,Mr Harper,mark.harper.mp@parliament.uk,,Mark-Harper,Forest-of-Dean
+E14001020,66049,Miss,Sharon,Hodgson,Sharon Hodgson,Washington and Sunderland West,Mrs Hodgson,sharon.hodgson.mp@parliament.uk,brownjea@parliament.uk,Sharon-Hodgson,Washington-and-Sunderland-West
+E14000715,65944,Mr,Adam,Holloway,Adam Holloway,Gravesham,Mr Holloway,hollowaya@parliament.uk,,Adam-Holloway,Gravesham
+E14000719,65838,Rt Hon,Anne,Milton,Anne Milton,Guildford,Ms Milton,anne.milton.mp@parliament.uk,,Anne-Milton,Guildford
+E14000721,65752,Mr,Meg,Hillier,Meg Hillier,Hackney South and Shoreditch,Ms Hillier,meghilliermp@parliament.uk,,Meg-Hillier,Hackney-South-and-Shoreditch
+E14000629,65818,Rt Hon,Greg,Hands,Greg Hands,Chelsea and Fulham,Mr Hands,handsg@parliament.uk,,Greg-Hands,Chelsea-and-Fulham
+E14000739,65967,Sir,Mike,Penning,Mike Penning,Hemel Hempstead,Sir Mike,penningm@parliament.uk,mike@penning4hemel.com,Mike-Penning,Hemel-Hempstead
+E14000951,65596,Mr,David,Gauke,David Gauke,South West Hertfordshire,Mr Gauke,gauked@parliament.uk,david@davidgauke.com,David-Gauke,South-West-Hertfordshire
+E14000869,65653,Rt Hon,James,Brokenshire,James Brokenshire,Old Bexley and Sidcup,Mr Brokenshire,james.brokenshire.mp@parliament.uk,,James-Brokenshire,Old-Bexley-and-Sidcup
+E14000772,65618,Mr,Diana,Johnson,Diana Johnson,Kingston upon Hull North,Ms Johnson,johnsond@parliament.uk,,Diana-Johnson,Kingston-upon-Hull-North
+E14000764,65882,Ms,Emily,Thornberry,Emily Thornberry,Islington South and Finsbury,Ms Thornberry,emily.thornberry.mp@parliament.uk,,Emily-Thornberry,Islington-South-and-Finsbury
+E14000769,66001,Mr,Philip,Hollobone,Philip Hollobone,Kettering,Mr Hollobone,philip.hollobone.mp@parliament.uk,,Philip-Hollobone,Kettering
+E14001033,65873,Ms,Rosie,Cooper,Rosie Cooper,West Lancashire,Ms Cooper,rosie.cooper.mp@parliament.uk,rosie@rosiecooper.net,Rosie-Cooper,West-Lancashire
+E14001057,65695,Mr,Ben,Wallace,Ben Wallace,Wyre and Preston North,Mr Wallace,wallaceb@parliament.uk,,Ben-Wallace,Wyre-and-Preston-North
+W07000045,66117,Ms,Nia,Griffith,Nia Griffith,Llanelli,Ms Griffith,nia.griffith.mp@parliament.uk,,Nia-Griffith,Llanelli
+E14000799,65690,Mr,Philip,Dunne,Philip Dunne,Ludlow,Mr Dunne,philip.dunne.mp@parliament.uk,philip@philipdunne.com,Philip-Dunne,Ludlow
+E14000821,65953,Mr,Mark,Lancaster,Mark Lancaster,Milton Keynes North,Mr Lancaster,officeofmarklancaster@parliament.uk,,Mark-Lancaster,Milton-Keynes-North
+W07000054,66084,Mr,David,Davies,David Davies,Monmouth,Mr Davies,david.davies.mp@parliament.uk,,David-Davies,Monmouth
+E14000830,65862,Mr,Richard,Benyon,Richard Benyon,Newbury,Mr Benyon,richard.benyon.mp@parliament.uk,richard@richardbenyon.com,Richard-Benyon,Newbury
+W07000055,66094,Ms,Jessica,Morden,Jessica Morden,Newport East,Ms Morden,jessica.morden.mp@parliament.uk,,Jessica-Morden,Newport-East
+W07000065,66102,Rt Hon,Stephen,Crabb,Stephen Crabb,Preseli Pembrokeshire,Mr Crabb,stephen.crabb.mp@parliament.uk,jonesad@parliament.uk,Stephen-Crabb,Preseli-Pembrokeshire
+E14000887,66045,Rt Hon,Justine,Greening,Justine Greening,Putney,Ms Greening,greeningj@parliament.uk,,Justine-Greening,Putney
+E14000899,65584,Mr,James,Duddridge,James Duddridge,Rochford and Southend East,Mr Duddridge,,james@jamesduddridge.com,James-Duddridge,Rochford-and-Southend-East
+E14000767,65968,Rt Hon,Jeremy,Wright,Jeremy Wright,Kenilworth and Southam,Mr Wright,jeremy.wright.mp@parliament.uk,jeremy@jeremywright.org.uk,Jeremy-Wright,Kenilworth-and-Southam
+E14000906,65681,Mr,Nick,Hurd,Nick Hurd,Ruislip,,,,,
+E14000960,65715,Mrs,Anne,Main,Anne Main,St Albans,Mrs Main,maina@parliament.uk,agent@stalbansconservatives.com,Anne-Main,St-Albans
+E14000913,65891,Mr,Robert,Goodwill,Robert Goodwill,Scarborough and Whitby,Mr Goodwill,robert.goodwill.mp@parliament.uk,,Robert-Goodwill,Scarborough-and-Whitby
+E14000876,66002,Ms,Angela,Smith,Angela Smith,Penistone and Stocksbridge,Ms Smith,angela.smith.mp@parliament.uk,wilsonst@parliament.uk,Angela-Smith,Penistone-and-Stocksbridge
+E14000925,65959,Mr,Philip,Davies,Philip Davies,Shipley,Mr Davies,daviesp@parliament.uk,deborah.davies@parliament.uk,Philip-Davies,Shipley
+E14000926,65563,Ms,Daniel,Kawczynski,Daniel Kawczynski,Shrewsbury and Atcham,Mr Kawczynski,kawczynskid@parliament.uk,mail@daniel4shrewsbury.co.uk,Daniel-Kawczynski,Shrewsbury-and-Atcham
+E14000983,65747,Rt Hon,Michael,Gove,Michael Gove,Surrey Heath,Mr Gove,michael.gove.mp@parliament.uk,office@shca.org.uk,Michael-Gove,Surrey-Heath
+E14000953,65678,Dr,Jeremy,Hunt,Jeremy Hunt,South West Surrey,Mr Hunt,huntj@parliament.uk,,Jeremy-Hunt,South-West-Surrey
+E14001004,65660,Rt Hon,Greg,Clark,Greg Clark,Tunbridge Wells,Mr Clark,greg.clark.mp@parliament.uk,,Greg-Clark,Tunbridge-Wells
+E14001009,65733,Ms,Mary,Creagh,Mary Creagh,Wakefield,Ms Creagh,creaghm@parliament.uk,mary@marycreagh.co.uk,Mary-Creagh,Wakefield
+E14001015,65638,Hon,Ed,Vaizey,Ed Vaizey,Wantage,Mr Vaizey,ed.vaizey.mp@parliament.uk,dicksonce@parliament.uk,Ed-Vaizey,Wantage
+E14001025,65830,Mr,Peter,Bone,Peter Bone,Wellingborough,Mr Bone,bonep@parliament.uk,,Peter-Bone,Wellingborough
+E14001027,65740,Rt Hon,Grant,Shapps,Grant Shapps,Welwyn Hatfield,Mr Shapps,shappsg@parliament.uk,sandra@welhatconservatives.com,Grant-Shapps,Welwyn-Hatfield
+E14001032,66058,Ms,Lyn,Brown,Lyn Brown,West Ham,Ms Brown,brownl@parliament.uk,lyn@lynbrown.org.uk,Lyn-Brown,West-Ham
+E14001037,65963,Mr,Tim,Farron,Tim Farron,Westmorland and Lonsdale,Mr Farron,farront@parliament.uk,tim@timfarron.co.uk,Tim-Farron,Westmorland-and-Lonsdale
+E14001038,65742,Mr,John,Penrose,John Penrose,Weston-Super-Mare,Mr Penrose,penrosej@parliament.uk,john@johnpenrose.org,John-Penrose,Weston-Super-Mare
+E14001040,65827,Mr,Stephen,Hammond,Stephen Hammond,Wimbledon,Mr Hammond,hammonds@parliament.uk,agent@wimbledonconservatives.co.uk,Stephen-Hammond,Wimbledon
+E14001042,65552,Mr,Adam,Afriyie,Adam Afriyie,Windsor,Mr Afriyie,adam.afriyie.mp@parliament.uk,,Adam-Afriyie,Windsor
+E14001050,65593,Rt Hon,Pat,McFadden,Pat McFadden,Wolverhampton South East,Mr McFadden,mcfaddenp@parliament.uk,,Pat-McFadden,Wolverhampton-South-East
+E14001054,65757,Ms,Barbara,Keeley,Barbara Keeley,Worsley and Eccles South,Ms Keeley,keeleyb@parliament.uk,,Barbara-Keeley,Worsley-and-Eccles-South
+E14000992,65977,Mr,Mark,Pritchard,Mark Pritchard,The Wrekin,Mr Pritchard,pritchardm@parliament.uk,,Mark-Pritchard,The-Wrekin
+S14000014,14411,Rt Hon,David,Mundell,David Mundell,Dumfriesshire,,,,,
+S14000018,NULL,Ms,Jo,Swinson,Jo Swinson,East Dunbartonshire,Ms Swinson,jo.swinson.mp@parliament.uk,,Jo-Swinson,East-Dunbartonshire
+S14000015,14412,Rt Hon,Stewart,Hosie,Stewart Hosie,Dundee East,Mr Hosie,hosies@parliament.uk,hosie@dundeesnp.org,Stewart-Hosie,Dundee-East
+S14000027,14444,Mr,Angus,MacNeil,Angus MacNeil,Na h-Eileanan an Iar,Mr MacNeil,macneila@parliament.uk,macdonaldrm@parliament.uk,Angus-MacNeil,Na-h-Eileanan-an-Iar
+E14000604,65954,Mr,Bob,Neill,Bob Neill,Bromley and Chislehurst,Mr Neill,bob.neill.mp@parliament.uk,office@bromleyconservatives.com,Bob-Neill,Bromley-and-Chislehurst
+N06000010,66133,Mr,Francie,Molloy,Francie Molloy,Mid Ulster,Mr Molloy,,sinnfeincookstown@yahoo.com,Francie-Molloy,Mid-Ulster
+N06000012,66135,Mr,Ian,Jr,Ian Paisley Jr,North Antrim,Mr Paisley,ian.paisley.mp@parliament.uk,info@ianpaisleymp.co.uk,Ian-Paisley-Jr,North-Antrim
+N06000016,66139,Mr,Jim,Shannon,Jim Shannon,Strangford,Mr Shannon,jim.shannon.mp@parliament.uk,,Jim-Shannon,Strangford
+N06000011,66134,Mr,Mickey,Brady,Mickey Brady,Newry and Armagh,Mr Brady,mickey.brady.mp@parliament.uk,,Mickey-Brady,Newry-and-Armagh
+N06000004,66127,Mr,Paul,Maskey,Paul Maskey,Belfast West,Mr Maskey,paul.maskey.mp@parliament.uk,westbelfastmp@sinnfein.ie,Paul-Maskey,Belfast-West
+E14000915,65763,Mr,Phil,Wilson,Phil Wilson,Sedgefield,Mr Wilson,phil.wilson.mp@parliament.uk,trippettp@parliament.uk,Phil-Wilson,Sedgefield
+E14000676,65794,Mr,Virendra,Sharma,Virendra Sharma,Ealing,,,,,
+S14000008,NULL,Mr,John,Lamont,John Lamont,Berwickshire,,,,,
+S14000020,NULL,,Kenny,MacAskill,Kenny MacAskill,East Lothian,Mr MacAskill,kenny.macaskill.mp@parliament.uk,NULL,Kenny-MacAskill,East-Lothian
+E14000686,NULL,,Edward,Timpson,Edward Timpson,Eddisbury,Mr Timpson,edward.timpson.mp@parliament.uk,NULL,Edward-Timpson,Eddisbury
+E14000742,65786,Mr,John,Howell,John Howell,Henley,Mr Howell,howelljm@parliament.uk,angie.paterson@parliament.uk,John-Howell,Henley
+S14000032,NULL,,Anne,McLaughlin,Anne McLaughlin,Glasgow North East,Ms McLaughlin,anne.mclaughlin.mp@parliament.uk,NULL,Anne-McLaughlin,Glasgow-North-East
+E14000863,65768,Ms,Chloe,Smith,Chloe Smith,Norwich North,Ms Smith,chloe.smith.mp@parliament.uk,chloe@chloesmith.org.uk,Chloe-Smith,Norwich-North
+E14000754,65947,Ms,Bridget,Phillipson,Bridget Phillipson,Houghton and Sunderland South,Ms Phillipson,bridget.phillipson.mp@parliament.uk,bridget@bridgetphillipson.co.uk,Bridget-Phillipson,Houghton-and-Sunderland-South
+E14000982,65586,Ms,Julie,Elliott,Julie Elliott,Sunderland Central,Ms Elliott,julie.elliott.mp@parliament.uk,,Julie-Elliott,Sunderland-Central
+E14000658,65802,Ms,Jenny,Chapman,Jenny Chapman,Darlington,Ms Chapman,jenny.chapman.mp@parliament.uk,,Jenny-Chapman,Darlington
+E14000774,66053,Mr,Chris,Skidmore,Chris Skidmore,Kingswood,Mr Skidmore,chris.skidmore.mp@parliament.uk,chris@chrisskidmore.com,Chris-Skidmore,Kingswood
+E14000677,65823,Mr,Grahame,Morris,Grahame Morris,Easington,Mr Morris,grahame.morris.mp@parliament.uk,robert.adcock@parliament.uk,Grahame-Morris,Easington
+E14000702,65865,Mr,Jack,Lopresti,Jack Lopresti,Filton and Bradley Stoke,Mr Lopresti,jack.lopresti.mp@parliament.uk,,Jack-Lopresti,Filton-and-Bradley-Stoke
+W07000062,66121,Mr,Susan Elan,Jones,Susan Elan Jones,Clwyd South,Ms Jones,susan.jones.mp@parliament.uk,,Susan-Elan-Jones,Clwyd-South
+W07000077,66097,Mr,Chris,Evans,Chris Evans,Islwyn,Mr Evans,chris.evans.mp@parliament.uk,,Chris-Evans,Islwyn
+E14000966,65907,Ms,Karen,Bradley,Karen Bradley,Staffordshire Moorlands,Ms Bradley,karen.bradley.mp@parliament.uk,,Karen-Bradley,Staffordshire-Moorlands
+W07000072,66093,Mr,Nick,Smith,Nick Smith,Blaenau Gwent,Mr Smith,nick.smith.mp@parliament.uk,,Nick-Smith,Blaenau-Gwent
+E14000945,65943,Rt Hon,Gavin,Williamson,Gavin Williamson,South Staffordshire,Mr Williamson,gavin.williamson.mp@parliament.uk,gavin@gavinwilliamson.org,Gavin-Williamson,South-Staffordshire
+E14000622,65914,Mrs,Rebecca,Harris,Rebecca Harris,Castle Point,Mrs Harris,rebecca.harris.mp@parliament.uk,office@castlepointconservatives.com,Rebecca-Harris,Castle-Point
+E14000797,65785,Rt Hon,Nicky,Morgan,Nicky Morgan,Loughborough,Mrs Morgan,nicky.morgan.mp@parliament.uk,jane.hunt@parliament.uk,Nicky-Morgan,Loughborough
+W07000058,66085,Mr,Guto,Bebb,Guto Bebb,Aberconwy,Mr Bebb,guto.bebb.mp@parliament.uk,office@gutobebbmp.co.uk,Guto-Bebb,Aberconwy
+W07000063,66111,Mr,Glyn,Davies,Glyn Davies,Montgomeryshire,Mr Davies,glyn.davies.mp@parliament.uk,pamela.williams@parliament.uk,Glyn-Davies,Montgomeryshire
+W07000078,66098,Rt Hon,Alun,Cairns,Alun Cairns,Vale of Glamorgan,Mr Cairns,alun.cairns.mp@parliament.uk,,Alun-Cairns,Vale-of-Glamorgan
+E14000858,65776,Mr,Andrew,Bridgen,Andrew Bridgen,North West Leicestershire,Mr Bridgen,andrew.bridgen.mp@parliament.uk,andrew@andrewbridgen.com,Andrew-Bridgen,North-West-Leicestershire
+E14000970,65641,Mr,Alex,Cunningham,Alex Cunningham,Stockton North,Mr Cunningham,alex.cunningham.mp@parliament.uk,,Alex-Cunningham,Stockton-North
+W07000067,66089,Mr,Jonathan,Edwards,Jonathan Edwards,Carmarthen East and Dinefwr,Mr Edwards,jonathan.edwards.mp@parliament.uk,,Jonathan-Edwards,Carmarthen-East-and-Dinefwr
+E14000704,65779,Mr,Damian,Collins,Damian Collins,Folkestone and Hythe,Mr Collins,damian.collins.mp@parliament.uk,shepwayconservatives@btconnect.com,Damian-Collins,Folkestone-and-Hythe
+E14000868,65663,Ms,Marcus,Jones,Marcus Jones,Nuneaton,Mr Jones,marcus.jones.mp@parliament.uk,,Marcus-Jones,Nuneaton
+E14000986,65880,Mr,Christopher,Pincher,Christopher Pincher,Tamworth,Mr Pincher,christopher.pincher.mp@parliament.uk,,Christopher-Pincher,Tamworth
+E14000933,65962,Mr,Stephen,Metcalfe,Stephen Metcalfe,South Basildon and East Thurrock,Mr Metcalfe,stephen.metcalfe.mp@parliament.uk,,Stephen-Metcalfe,South-Basildon-and-East-Thurrock
+E14000684,NULL,Mr,Stephen,Lloyd,Stephen Lloyd,Eastbourne,Mr Lloyd,stephen.lloyd.mp@parliament.uk,stephen@stephenlloyd.org.uk,Stephen-Lloyd,Eastbourne
+E14000624,65748,Dr,Daniel,Poulter,Daniel Poulter,Central Suffolk and North Ipswich,Dr Poulter,daniel.poulter.mp@parliament.uk,,Daniel-Poulter,Central-Suffolk-and-North-Ipswich
+E14000730,65578,Rt Hon,Andrew,Jones,Andrew Jones,Harrogate and Knaresborough,Mr Jones,andrew.jones.mp@parliament.uk,,Andrew-Jones,Harrogate-and-Knaresborough
+E14000875,65668,Mr,Andrew,Stephenson,Andrew Stephenson,Pendle,Mr Stephenson,andrew.stephenson.mp@parliament.uk,,Andrew-Stephenson,Pendle
+E14000965,66067,Mr,Jeremy,Lefroy,Jeremy Lefroy,Stafford,Mr Lefroy,jeremy.lefroy.mp@parliament.uk,,Jeremy-Lefroy,Stafford
+E14001001,65810,Dr,Sarah,Wollaston,Sarah Wollaston,Totnes,Dr Wollaston,sarah.wollaston.mp@parliament.uk,nina.smith@parliament.uk,Sarah-Wollaston,Totnes
+E14000572,65750,Mr,Paul,Maynard,Paul Maynard,Blackpool North and Cleveleys,Mr Maynard,paul.maynard.mp@parliament.uk,,Paul-Maynard,Blackpool-North-and-Cleveleys
+E14000586,65697,Dr,Phillip,Lee,Phillip Lee,Bracknell,Dr Lee,phillip.lee.mp@parliament.uk,leepa@parliament.uk,Phillip-Lee,Bracknell
+E14000714,65683,Mr,Nicholas,Boles,Nick Boles,Grantham and Stamford,Mr Boles,nick.boles.mp@parliament.uk,gsca@btinternet.com,Nick-Boles,Grantham-and-Stamford
+E14000771,65709,Mr,Karl,Turner,Karl Turner,Kingston upon Hull East,Mr Turner,karl.turner.mp@parliament.uk,,Karl-Turner,Kingston-upon-Hull-East
+E14000935,65762,Mrs,Heather,Wheeler,Heather Wheeler,South Derbyshire,Mrs Wheeler,heather.wheeler.mp@parliament.uk,heather@heatherwheeler.org.uk,Heather-Wheeler,South-Derbyshire
+E14000959,65942,Mr,Kwasi,Kwarteng,Kwasi Kwarteng,Spelthorne,Mr Kwarteng,kwasi.kwarteng.mp@parliament.uk,,Kwasi-Kwarteng,Spelthorne
+E14000981,65607,Dr,Therese,Coffey,Therese Coffey,Suffolk Coastal,Dr Coffey,therese.coffey.mp@parliament.uk,,Therese-Coffey,Suffolk-Coastal
+E14000607,65849,Rt Hon,Anna,Soubry,Anna Soubry,Broxtowe,Ms Soubry,anna.soubry.mp@parliament.uk,,Anna-Soubry,Broxtowe
+E14001034,65629,Rt Hon,Matt,Hancock,Matt Hancock,West Suffolk,Mr Hancock,matthew.hancock.mp@parliament.uk,matthew@matthewhancock.co.uk,Matthew-Hancock,West-Suffolk
+E14000867,65945,Ms,Lilian,Greenwood,Lilian Greenwood,Nottingham South,Ms Greenwood,lilian.greenwood.mp@parliament.uk,,Lilian-Greenwood,Nottingham-South
+E14000579,65712,Ms,Yasmin,Qureshi,Yasmin Qureshi,Bolton South East,Ms Qureshi,yasmin.qureshi.mp@parliament.uk,,Yasmin-Qureshi,Bolton-South-East
+E14000670,65555,Mr,Charlie,Elphicke,Charlie Elphicke,Dover,Mr Elphicke,charlie.elphicke.mp@parliament.uk,charlie@elphicke.com,Charlie-Elphicke,Dover
+E14001045,65831,Rt Hon,Priti,Patel,Priti Patel,Witham,Ms Patel,withammp@parliament.uk,,Priti-Patel,Witham
+E14000996,65761,Mr,Neil,Parish,Neil Parish,Tiverton and Honiton,Mr Parish,neil.parish.mp@parliament.uk,neil@neilparish.co.uk,Neil-Parish,Tiverton-and-Honiton
+E14000585,65933,Mr,Conor,Burns,Conor Burns,Bournemouth West,Mr Burns,conor.burns.mp@parliament.uk,mail@conorburns.com,Conor-Burns,Bournemouth-West
+E14000680,65569,Mr,Damian,Hinds,Damian Hinds,East Hampshire,Mr Hinds,damian.hinds.mp@parliament.uk,,Damian-Hinds,East-Hampshire
+E14000729,65875,Rt Hon,Robert,Halfon,Robert Halfon,Harlow,Mr Halfon,,halfon4harlow@roberthalfon.com,Robert-Halfon,Harlow
+E14001035,65758,Mrs,Harriett,Baldwin,Harriett Baldwin,West Worcestershire,Mrs Baldwin,harriett.baldwin.mp@parliament.uk,,Harriett-Baldwin,West-Worcestershire
+E14001056,66010,Mr,Steve,Baker,Steve Baker,Wycombe,Mr Baker,steve.baker.mp@parliament.uk,sue.hynard@parliament.uk,Steve-Baker,Wycombe
+E14000841,NULL,,Richard,Fuller,Richard Fuller,North East Bedfordshire,Mr Fuller,richard.fuller.mp@parliament.uk,NULL,Richard-Fuller,North-East-Bedfordshire
+E14000564,65989,Ms,Shabana,Mahmood,Shabana Mahmood,Birmingham,,,,,
+E14000681,65856,Mr,Sam,Gyimah,Sam Gyimah,East Surrey,Mr Gyimah,,sam@samgyimah.com,Sam-Gyimah,East-Surrey
+E14000792,NULL,,Karl,McCartney,Karl McCartney,Lincoln,Mr McCartney,karl.mccartney.mp@parliament.uk,NULL,Karl-McCartney,Lincoln
+E14000735,65640,Rt Hon,Amber,Rudd,Amber Rudd,Hastings and Rye,Ms Rudd,amber.rudd.mp@parliament.uk,louisem.sargent@parliament.uk,Amber-Rudd,Hastings-and-Rye
+E14000804,65936,Mrs,Helen,Grant,Helen Grant,Maidstone and The Weald,Mrs Grant,helen.grant.mp@parliament.uk,,Helen-Grant,Maidstone-and-The-Weald
+W07000075,66087,Mr,Owen,Smith,Owen Smith,Pontypridd,Mr Smith,owen.smith.mp@parliament.uk,,Owen-Smith,Pontypridd
+E14000914,66027,Mr,Nicholas,Dakin,Nic Dakin,Scunthorpe,Mr Dakin,nic.dakin.mp@parliament.uk,,Nic-Dakin,Scunthorpe
+E14000620,65929,Mr,John,Stevenson,John Stevenson,Carlisle,Mr Stevenson,john.stevenson.mp@parliament.uk,office@johnstevensonmp.co.uk,John-Stevenson,Carlisle
+E14000652,65781,Mr,Henry,Smith,Henry Smith,Crawley,Mr Smith,henry.smith.mp@parliament.uk,steve.aldridge@parliament.uk,Henry-Smith,Crawley
+E14000659,66011,Mr,Gareth,Johnson,Gareth Johnson,Dartford,Mr Johnson,gareth.johnson.mp@parliament.uk,,Gareth-Johnson,Dartford
+E14000706,65955,Mr,Mark,Menzies,Mark Menzies,Fylde,Mr Menzies,mark.menzies.mp@parliament.uk,,Mark-Menzies,Fylde
+E14000805,65645,Ms,Yvonne,Fovargue,Yvonne Fovargue,Makerfield,Ms Fovargue,yvonne.fovargue.mp@parliament.uk,,Yvonne-Fovargue,Makerfield
+E14000831,66055,Ms,Chi,Onwurah,Chi Onwurah,Newcastle upon Tyne Central,Ms Onwurah,chi.onwurah.mp@parliament.uk,carol.stanners@parliament.uk,Chi-Onwurah,Newcastle-upon-Tyne-Central
+E14000901,65884,Ms,Caroline,Nokes,Caroline Nokes,Romsey and Southampton North,Ms Nokes,caroline.nokes.mp@parliament.uk,caroline@romseyconservatives.co.uk,Caroline-Nokes,Romsey-and-Southampton-North
+E14000535,65895,Ms,Gloria,De Piero,Gloria De Piero,Ashfield,Ms De Piero,gloria.depiero.mp@parliament.uk,,Gloria-De-Piero,Ashfield
+W07000066,66109,Rt Hon Sir,Simon,Hart,Simon Hart,Carmarthen West and South Pembrokeshire,Mr Hart,simon.hart.mp@parliament.uk,,Simon-Anthony-Hart,Carmarthen-West-and-South-Pembrokeshire
+E14000643,66057,Mr,Martin,Vickers,Martin Vickers,Cleethorpes,Mr Vickers,martin.vickers.mp@parliament.uk,mvickersmp@gmail.com,Martin-Vickers,Cleethorpes
+E14000697,66062,Mr,Dominic,Raab,Dominic Raab,Esher and Walton,Mr Raab,dominic.raab.mp@parliament.uk,ursula.henry@parliament.uk,Dominic-Raab,Esher-and-Walton
+E14000784,65587,Ms,Liz,Kendall,Liz Kendall,Leicester West,Ms Kendall,liz.kendall.mp@parliament.uk,,Liz-Kendall,Leicester-West
+E14000816,65949,Mr,George,Freeman,George Freeman,Mid Norfolk,Mr Freeman,george.freeman.mp@parliament.uk,george@georgefreeman.co.uk,George-Freeman,Mid-Norfolk
+E14000833,65664,Ms,Catherine,McKinnell,Catherine McKinnell,Newcastle upon Tyne North,Ms McKinnell,catherine.mckinnell.mp@parliament.uk,,Catherine-McKinnell,Newcastle-upon-Tyne-North
+E14000802,65896,Mr,David,Rutley,David Rutley,Macclesfield,Mr Rutley,david.rutley.mp@parliament.uk,mcatory@btconnect.com,David-Rutley,Macclesfield
+E14000814,66007,Mrs,Pauline,Latham,Pauline Latham,Mid Derbyshire,Mrs Latham,pauline.latham.mp@parliament.uk,,Pauline-Latham,Mid-Derbyshire
+E14000977,65648,Mr,Nadhim,Zahawi,Nadhim Zahawi,Stratford-on-Avon,Mr Zahawi,nadhim.zahawi.mp@parliament.uk,constituents@zahawi.com,Nadhim-Zahawi,Stratford-on-Avon
+E14001058,66078,Mr,Mark,Garnier,Mark Garnier,Wyre Forest,Mr Garnier,mark.garnier.mp@parliament.uk,,Mark-Garnier,Wyre-Forest
+E14000561,65667,Mr,Jack,Dromey,Jack Dromey,Birmingham,,,,,
+E14000610,65708,Mr,Andrew,Griffiths,Andrew Griffiths,Burton,Mr Griffiths,andrew.griffiths.mp@parliament.uk,,Andrew-Griffiths,Burton
+E14000927,65610,Mr,Gordon,Henderson,Gordon Henderson,Sittingbourne and Sheppey,Mr Henderson,gordon.henderson.mp@parliament.uk,jess.mcmahon@parliament.uk,Gordon-Henderson,Sittingbourne-and-Sheppey
+E14000942,65902,Mrs,Andrea,Leadsom,Andrea Leadsom,South Northamptonshire,Mrs Leadsom,andrea.leadsom.mp@parliament.uk,,Andrea-Leadsom,South-Northamptonshire
+E14000662,NULL,Mr,Chris,Williamson,Chris Williamson,Derby North,Mr Williamson,chris.williamson.mp@parliament.uk,cw4dn@derbylabourparty.co.uk,Chris-Williamson,Derby-North
+E14001039,65612,Ms,Lisa,Nandy,Lisa Nandy,Wigan,Ms Nandy,lisa.nandy.mp@parliament.uk,,Lisa-Nandy,Wigan
+E14000596,66000,Mr,Andrew,Percy,Andrew Percy,Brigg and Goole,Mr Percy,andrew.percy.mp@parliament.uk,brigg.goole@gmail.com,Andrew-Percy,Brigg-and-Goole
+E14000758,65899,Ms,Graham,Jones,Graham Jones,Hyndburn,Mr Jones,graham.jones.mp@parliament.uk,julie.milligan@parliament.uk,Graham-Jones,Hyndburn
+E14000543,66006,Mr,John,Woodcock,John Woodcock,Barrow and Furness,Mr Woodcock,john.woodcock.mp@parliament.uk,,John-Woodcock,Barrow-and-Furness
+E14000912,65889,Mr,John,Glen,John Glen,Salisbury,Mr Glen,john.glen.mp@parliament.uk,,John-Glen,Salisbury
+E14000660,66025,Mr,Chris,Heaton-Harris,Chris Heaton-Harris,Daventry,Mr Heaton-Harris,chris.heatonharris.mp@parliament.uk,agent@wnc.uk.com,Chris-Heaton-Harris,Daventry
+E14000947,65800,Mr,Robert,Buckland,Robert Buckland,South Swindon,Mr Buckland,robert.buckland.mp@parliament.uk,,Robert-Buckland,South-Swindon
+E14000632,65980,Mr,Toby,Perkins,Toby Perkins,Chesterfield,Mr Perkins,toby.perkins.mp@parliament.uk,,Toby-Perkins,Chesterfield
+E14000801,66080,Mr,Gavin,Shuker,Gavin Shuker,Luton South,Mr Shuker,gavin.shuker.mp@parliament.uk,office@gavinshuker.org,Gavin-Shuker,Luton-South
+E14000781,65988,Ms,Rachel,Reeves,Rachel Reeves,Leeds West,Ms Reeves,rachel.reeves.mp@parliament.uk,rreevesmp@gmail.com,Rachel-Reeves,Leeds-West
+E14001012,65832,Ms,Valerie,Vaz,Valerie Vaz,Walsall South,Ms Vaz,valerie.vaz.mp@parliament.uk,,Valerie-Vaz,Walsall-South
+E14001062,66037,Mr,Julian,Sturdy,Julian Sturdy,York Outer,Mr Sturdy,julian.sturdy.mp@parliament.uk,,Julian-Sturdy,York-Outer
+E14000605,65617,Mr,Sajid,Javid,Sajid Javid,Bromsgrove,Mr Javid,sajid.javid.mp@parliament.uk,mary.marsh@parliament.uk,Sajid-Javid,Bromsgrove
+E14000722,65971,Mr,James,Morris,James Morris,Halesowen and Rowley Regis,Mr Morris,james.morris.mp@parliament.uk,hadleys@parliament.uk,James-Morris,Halesowen-and-Rowley-Regis
+E14000646,65771,Mrs,Fiona,Bruce,Fiona Bruce,Congleton,Mrs Bruce,fiona.bruce.mp@parliament.uk,,Fiona-Bruce,Congleton
+E14000902,66019,Mr,Jake,Berry,Jake Berry,Rossendale and Darwen,Mr Berry,jake.berry.mp@parliament.uk,,Jake-Berry,Rossendale-and-Darwen
+E14001052,65577,Mr,Robin,Walker,Robin Walker,Worcester,Mr Walker,robin.walker.mp@parliament.uk,,Robin-Walker,Worcester
+E14000886,65637,Mr,Stuart,Andrew,Stuart Andrew,Pudsey,Mr Andrew,stuart.andrew.mp@parliament.uk,,Stuart-Andrew,Pudsey
+E14000861,66059,Mr,Michael,Ellis,Michael Ellis,Northampton North,Mr Ellis,michael.ellis.mp@parliament.uk,,Michael-Ellis,Northampton-North
+E14001049,65777,Ms,Emma,Reynolds,Emma Reynolds,Wolverhampton North East,Ms Reynolds,emma.reynolds.mp@parliament.uk,,Emma-Reynolds,Wolverhampton-North-East
+E14000851,65760,Mr,Justin,Tomlinson,Justin Tomlinson,North Swindon,Mr Tomlinson,justin.tomlinson.mp@parliament.uk,,Justin-Tomlinson,North-Swindon
+E14000626,66075,Ms,Tracey,Crouch,Tracey Crouch,Chatham and Aylesford,Ms Crouch,tracey.crouch.mp@parliament.uk,,Tracey-Crouch,Chatham-and-Aylesford
+S14000024,14421,Mr,Ian,Murray,Ian Murray,Edinburgh South,Mr Murray,ian.murray.mp@parliament.uk,ian@ianmurraymp.co.uk,Ian-Murray,Edinburgh-South
+E14000713,65928,Ms,Caroline,Dinenage,Caroline Dinenage,Gosport,Ms Dinenage,caroline.dinenage.mp@parliament.uk,,Caroline-Dinenage,Gosport
+E14000938,65684,Mrs,Sheryll,Murray,Sheryll Murray,South East Cornwall,Mrs Murray,sheryll.murray.mp@parliament.uk,sheryll@sheryllmurray.com,Sheryll-Murray,South-East-Cornwall
+E14000976,65609,Mr,Margot,James,Margot James,Stourbridge,Ms James,margot.james.mp@parliament.uk,,Margot-James,Stourbridge
+E14000917,65842,Mr,Nigel,Adams,Nigel Adams,Selby and Ainsty,Mr Adams,nigel.adams.mp@parliament.uk,,Nigel-Adams,Selby-and-Ainsty
+E14000717,65627,Mr,Brandon,Lewis,Brandon Lewis,Great Yarmouth,Mr Lewis,helen.hill@parliament.uk,office@brandonlewis.co,Brandon-Lewis,Great-Yarmouth
+E14000905,65656,Mr,Mark,Pawsey,Mark Pawsey,Rugby,Mr Pawsey,mark.pawsey.mp@parliament.uk,,Mark-Pawsey,Rugby
+E14000987,NULL,Ms,Esther,McVey,Esther McVey,Tatton,Ms McVey,esther.mcvey.mp@parliament.uk,esther@esthermcvey.com,Esther-McVey,Tatton
+E14001047,66039,Mr,Jonathan,Lord,Jonathan Lord,Woking,Mr Lord,jonathan.lord.mp@parliament.uk,,Jonathan-Lord,Woking
+E14000645,NULL,,Jason,McCartney,Jason McCartney,Colne Valley,Mr McCartney,jason.mccartney.mp@parliament.uk,NULL,Jason-McCartney,Colne-Valley
+E14000968,65571,Mr,Stephen,McPartland,Stephen McPartland,Stevenage,Mr McPartland,stephen.mcpartland.mp@parliament.uk,,Stephen-McPartland,Stevenage
+E14000689,65677,Mr,Alec,Shelbrooke,Alec Shelbrooke,Elmet and Rothwell,Mr Shelbrooke,alec.shelbrooke.mp@parliament.uk,conservatives@elmetandrothwell.com,Alec-Shelbrooke,Elmet-and-Rothwell
+E14000872,65682,Mr,Jo,Johnson,Jo Johnson,Orpington,Mr Johnson,jo.johnson.mp@parliament.uk,,Jo-Johnson,Orpington
+E14000979,65911,Ms,Kate,Green,Kate Green,Stretford and Urmston,Ms Green,kate.green.mp@parliament.uk,,Kate-Green,Stretford-and-Urmston
+E14001043,65847,Ms,Alison,McGovern,Alison McGovern,Wirral South,Ms McGovern,alison.mcgovern.mp@parliament.uk,alison@alisonmcgovern.org.uk,Alison-McGovern,Wirral-South
+E14001041,65921,Mr,Steve,Brine,Steve Brine,Winchester,Mr Brine,steve.brine.mp@parliament.uk,,Steve-Brine,Winchester
+E14000890,65982,Mr,Alok,Sharma,Alok Sharma,Reading West,Mr Sharma,alok.sharma.mp@parliament.uk,,Alok-Sharma,Reading-West
+E14000936,65788,Mr,Richard,Drax,Richard Drax,South Dorset,Mr Drax,richard.drax.mp@parliament.uk,,Richard-Drax,South-Dorset
+E14001022,66004,Mr,Peter,Aldous,Peter Aldous,Waveney,Mr Aldous,peter.aldous.mp@parliament.uk,,Peter-Aldous,Waveney
+E14000916,65706,Mr,Bill,Esterson,Bill Esterson,Sefton Central,Mr Esterson,bill.esterson.mp@parliament.uk,bill.estersonmp@gmail.com,Bill-Esterson,Sefton-Central
+E14000551,65725,Mr,Bob,Stewart,Bob Stewart,Beckenham,Mr Stewart,bob.stewart.mp@parliament.uk,,Bob-Stewart,Beckenham
+E14000924,65632,Mr,Mark,Spencer,Mark Spencer,Sherwood,Mr Spencer,mark.spencer.mp@parliament.uk,,Mark-Spencer,Sherwood
+E14000598,65787,Dr,Caroline,Lucas,Caroline Lucas,Brighton,,,,,
+E14000896,NULL,Mr,Zac,Goldsmith,Zac Goldsmith,Richmond Park,Mr Goldsmith,,zac@zacgoldsmith.com,Zac-Goldsmith,Richmond-Park
+E14000835,65828,Ms,Anne,Morris,Anne Marie Morris,Newton Abbot,Ms Morris,annemarie.morris.mp@parliament.uk,annemarie@annemariemorris.co.uk,Anne-Marie-Morris,Newton-Abbot
+E14000623,65749,Mr,Mel,Stride,Mel Stride,Central Devon,Mr Stride,mel.stride.mp@parliament.uk,,Mel-Stride,Central-Devon
+E14000665,65723,Mrs,Claire,Perry,Claire Perry,Devizes,Mrs Perry,claire.perry.mp@parliament.uk,,Claire-Perry,Devizes
+E14000842,66063,Mr,Steve,Barclay,Steve Barclay,North East Cambridgeshire,Mr Barclay,stephen.barclay.mp@parliament.uk,,Steve-Barclay,North-East-Cambridgeshire
+E14000709,65870,Mr,Ian,Mearns,Ian Mearns,Gateshead,Mr Mearns,ian.mearns.mp@parliament.uk,,Ian-Mearns,Gateshead
+E14000711,65864,Mr,Rehman,Chishti,Rehman Chishti,Gillingham and Rainham,Mr Chishti,rehman.chishti.mp@parliament.uk,,Rehman-Chishti,Gillingham-and-Rainham
+E14000712,65996,Mr,Richard,Graham,Richard Graham,Gloucester,Mr Graham,richard.graham.mp@parliament.uk,,Richard-Graham,Gloucester
+E14000795,65644,Ms,Luciana,Berger,Luciana Berger,Liverpool,,,,,
+E14000846,65619,Hon,Jacob,Rees-Mogg,Jacob Rees-Mogg,North East Somerset,Mr Rees-Mogg,jacob.reesmogg.mp@parliament.uk,jacob@northeastsomersetconservatives.co.uk,Jacob-Rees-Mogg,North-East-Somerset
+E14000853,65720,Mrs,Mary,Glindon,Mary Glindon,North Tyneside,Mrs Glindon,mary.glindon.mp@parliament.uk,,Mary-Glindon,North-Tyneside
+E14000967,65960,Mr,Jonathan,Reynolds,Jonathan Reynolds,Stalybridge and Hyde,Mr Reynolds,jonathan.reynolds.mp@parliament.uk,jonathan@jonathanreynolds.org.uk,Jonathan-Reynolds,Stalybridge-and-Hyde
+E14000616,65826,Mr,George,Eustice,George Eustice,Camborne and Redruth,Mr Eustice,george.eustice.mp@parliament.uk,camborneredruthconservatives@googlemail.com,George-Eustice,Camborne-and-Redruth
+E14000703,65938,Mr,Mike,Freer,Mike Freer,Finchley and Golders Green,Mr Freer,mike.freer.mp@parliament.uk,,Mike-Freer,Finchley-and-Golders-Green
+E14000811,65772,Mr,George,Hollingbery,George Hollingbery,Meon Valley,Mr Hollingbery,george.hollingbery.mp@parliament.uk,,George-Hollingbery,Meon-Valley
+E14000883,65566,Ms,Penny,Mordaunt,Penny Mordaunt,Portsmouth North,Ms Mordaunt,penny.mordaunt.mp@parliament.uk,info@pennymordaunt.com,Penny-Mordaunt,Portsmouth-North
+E14000952,65652,Rt Hon,Elizabeth,Truss,Elizabeth Truss,South West Norfolk,Ms Truss,elizabeth.truss.mp@parliament.uk,,Elizabeth-Truss,South-West-Norfolk
+E14000919,65957,Mr,Paul,Blomfield,Paul Blomfield,Sheffield Central,Mr Blomfield,paul.blomfield.mp@parliament.uk,,Paul-Blomfield,Sheffield-Central
+E14000614,65906,Mr,Craig,Whittaker,Craig Whittaker,Calder Valley,Mr Whittaker,craig.whittaker.mp@parliament.uk,office@craigwhittakermp.co.uk,Craig-Whittaker,Calder-Valley
+E14000731,65650,Mr,Bob,Blackman,Bob Blackman,Harrow East,Mr Blackman,bob.blackman.mp@parliament.uk,,Bob-Blackman,Harrow-East
+E14000822,66076,Mr,Iain,Stewart,Iain Stewart,Milton Keynes South,Mr Stewart,iain.stewart.mp@parliament.uk,,Iain-Stewart,Milton-Keynes-South
+E14001003,65659,Mrs,Sarah,Newton,Sarah Newton,Truro and Falmouth,Mrs Newton,sarah.newton.mp@parliament.uk,,Sarah-Newton,Truro-and-Falmouth
+E14001013,65651,Dr,Stella,Creasy,Stella Creasy,Walthamstow,Dr Creasy,,stella@workingforwalthamstow.org.uk,Stella-Creasy,Walthamstow
+E14000978,66042,Mr,Chuka,Umunna,Chuka Umunna,Streatham,Mr Umunna,chuka.umunna.mp@parliament.uk,,Chuka-Umunna,Streatham
+E14001021,65626,Mr,Richard,Harrington,Richard Harrington,Watford,Mr Harrington,richard.harrington.mp@parliament.uk,richard@richardharrington.org.uk,Richard-Harrington,Watford
+E14000741,65754,Dr,Matthew,Offord,Matthew Offord,Hendon,Dr Offord,matthew.offord.mp@parliament.uk,,Matthew-Offord,Hendon
+E14000696,66023,Ms,Teresa,Pearce,Teresa Pearce,Erith and Thamesmead,Ms Pearce,teresa.pearce.mp@parliament.uk,,Teresa-Pearce,Erith-and-Thamesmead
+E14000995,65919,Ms,Jackie,Doyle-Price,Jackie Doyle-Price,Thurrock,Ms Doyle-Price,jackie.doyleprice.mp@parliament.uk,,Jackie-Doyle-Price,Thurrock
+E14000555,65853,Ms,Rushanara,Ali,Rushanara Ali,Bethnal Green and Bow,Ms Ali,rushanara.ali.mp@parliament.uk,rushanara@rushanaraali.org,Rushanara-Ali,Bethnal-Green-and-Bow
+E14000928,65986,Mr,Julian,Smith,Julian Smith,Skipton and Ripon,Mr Smith,julian.smith.mp@parliament.uk,,Julian-Smith,Skipton-and-Ripon
+E14000746,65850,Mr,Guy,Opperman,Guy Opperman,Hexham,Mr Opperman,guy.opperman.mp@parliament.uk,hexham@tory.org,Guy-Opperman,Hexham
+E14001014,65631,Mr,Ian,Lavery,Ian Lavery,Wansbeck,Mr Lavery,ian.lavery.mp@parliament.uk,,Ian-Lavery,Wansbeck
+E14000877,66081,Mr,Rory,Stewart,Rory Stewart,Penrith and The Border,Mr Stewart,rory.stewart.mp@parliament.uk,rory@rorystewart.co.uk,Rory-Stewart,Penrith-and-The-Border
+E14000533,65809,Mr,Nigel,Mills,Nigel Mills,Amber Valley,Mr Mills,nigel.mills.mp@parliament.uk,nigel@nigelmillsmp.com,Nigel-Mills,Amber-Valley
+E14000825,65633,Mr,David,Morris,David Morris,Morecambe and Lunesdale,Mr Morris,david.morris.mp@parliament.uk,,David-Morris,Morecambe-and-Lunesdale
+E14000870,65903,Ms,Debbie,Abrahams,Debbie Abrahams,Oldham East and Saddleworth,Ms Abrahams,debbie.abrahams.mp@parliament.uk,abrahamsd@parliament.uk,Debbie-Abrahams,Oldham-East-and-Saddleworth
+E14000541,65665,Rt Hon,Dan,Jarvis,Dan Jarvis,Barnsley Central,Mr Jarvis,dan.jarvis.mp@parliament.uk,,Dan-Jarvis,Barnsley-Central
+E14000783,65604,Mr,Jon,Ashworth,Jon Ashworth,Leicester South,Mr Ashworth,jon.ashworth.mp@parliament.uk,,Jon-Ashworth,Leicester-South
+N06000008,NULL,,Colum,Eastwood,Colum Eastwood,Foyle,Mr Eastwood,colum.eastwood.mp@parliament.uk,NULL,Colum-Eastwood,Foyle
+E14000701,65655,Ms,Seema,Malhotra,Seema Malhotra,Feltham and Heston,Ms Malhotra,seema.malhotra.mp@parliament.uk,,Seema-Malhotra,Feltham-and-Heston
+N06000015,NULL,Mr,Chris,Hazzard,Chris Hazzard,South Down,Mr Hazzard,chris.hazzard.mp@parliament.uk,chrishazzardsf@gmail.com,Chris-Hazzard,South-Down
+E14000807,66048,Ms,Lucy,Powell,Lucy Powell,Manchester Central,Ms Powell,lucy.powell.mp@parliament.uk,contact@lucypowell.org.uk,Lucy-Powell,Manchester-Central
+W07000080,66119,Mr,Stephen,Doughty,Stephen Doughty,Cardiff South and Penarth,Mr Doughty,stephen.doughty.mp@parliament.uk,,Stephen-Doughty,Cardiff-South-and-Penarth
+E14000904,66029,Ms,Sarah,Champion,Sarah Champion,Rotherham,Ms Champion,sarah.champion.mp@parliament.uk,,Sarah-Champion,Rotherham
+E14000819,65998,Mr,Andy,McDonald,Andy McDonald,Middlesbrough,Mr McDonald,andy.mcdonald.mp@parliament.uk,info@andymcdonaldmp.org,Andy-McDonald,Middlesbrough
+E14000655,65867,Mr,Steve,Reed,Steve Reed,Croydon North,Mr Reed,steve.reed.mp@parliament.uk,,Steve-Reed,Croydon-North
+E14000944,65719,Mrs,Emma,Lewell-Buck,Emma Lewell-Buck,South Shields,Mrs Lewell-Buck,emma.lewell-buck.mp@parliament.uk,,Emma-Lewell-Buck,South-Shields
+E14001059,65669,Mr,Mike,Kane,Mike Kane,Wythenshawe and Sale East,Mr Kane,mike.kane.mp@parliament.uk,,Mike-Kane,Wythenshawe-and-Sale-East
+E14000829,65696,Rt Hon,Robert,Jenrick,Robert Jenrick,Newark,Mr Jenrick,robert.jenrick.mp@parliament.uk,graysj@parliament.uk,Robert-Jenrick,Newark
+E14000747,65814,Ms,Liz,McInnes,Liz McInnes,Heywood and Middleton,Ms McInnes,liz.mcinnes.mp@parliament.uk,,Liz-McInnes,Heywood-and-Middleton
+S14000040,14436,Mr,Alan,Brown,Alan Brown,Kilmarnock and Loudoun,Mr Brown,alan.brown.mp@parliament.uk,,Alan-Brown,Kilmarnock-and-Loudoun
+S14000053,14450,Ms,Mhairi,Black,Mhairi Black,Paisley and Renfrewshire South,Ms Black,mhairi.black.mp@parliament.uk,,Mhairi-Black,Paisley-and-Renfrewshire-South
+S14000016,14413,Mr,Chris,Law,Chris Law,Dundee West,Mr Law,chris.law.mp@parliament.uk,chris@dundeesnp.scot,Chris-Law,Dundee-West
+S14000028,14424,Mr,John,McNally,John McNally,Falkirk,Mr McNally,john.mcnally.mp@parliament.uk,,John-McNally,Falkirk
+E14000699,65857,Mrs,Suella,Braverman,Suella Braverman,Fareham,Mrs Braverman,suella.braverman.mp@parliament.uk,,Suella-Braverman,Fareham
+S14000036,14432,Mr,Peter,Grant,Peter Grant,Glenrothes,Mr Grant,peter.grant.mp@parliament.uk,,Peter-Grant,Glenrothes
+S14000059,14456,Mr,Martin,Docherty,Martin Docherty,West Dunbartonshire,Mr Docherty-Hughes,martin.docherty.mp@parliament.uk,,Martin-Docherty,West-Dunbartonshire
+S14000019,14416,Dr,Lisa,Cameron,Lisa Cameron,East Kilbride,,,,,
+S14000047,14443,Ms,Marion,Fellows,Marion Fellows,Motherwell and Wishaw,Ms Fellows,marion.fellows.mp@parliament.uk,,Marion-Fellows,Motherwell-and-Wishaw
+S14000045,NULL,,Owen,Thompson,Owen Thompson,Midlothian,Mr Thompson,owen.thompson.mp@parliament.uk,NULL,Owen-Thompson,Midlothian
+W07000053,66104,Mr,Nick,Thomas-Symonds,Nick Thomas-Symonds,Torfaen,Mr Thomas-Symonds,nick.thomassymonds.mp@parliament.uk,,Nick-Thomas-Symonds,Torfaen
+N06000001,66124,Mr,Gavin,Robinson,Gavin Robinson,Belfast East,Mr Robinson,gavin.robinson.mp@parliament.uk,,Gavin-Robinson,Belfast-East
+S14000050,NULL,,John,Nicolson,John Nicolson,Ochil and South Perthshire,Mr Nicolson,john.nicolson.mp@parliament.uk,NULL,John-Nicolson,Ochil-and-South-Perthshire
+E14000609,65846,Ms,Julie,Cooper,Julie Cooper,Burnley,Ms Cooper,julie.cooper.mp@parliament.uk,,Julie-Cooper,Burnley
+E14000674,65755,Mr,Rupa,Huq,Rupa Huq,Ealing Central and Acton,Dr Huq,rupa.huq.mp@parliament.uk,,Rupa-Huq,Ealing-Central-and-Acton
+E14000736,65699,Mr,Alan,Mak,Alan Mak,Havant,Mr Mak,alan.mak.mp@parliament.uk,alan@alanmak.org.uk,Alan-Mak,Havant
+S14000056,NULL,,Margaret,Ferrier,Margaret Ferrier,Rutherglen and Hamilton West,Ms Ferrier,margaret.ferrier.mp@parliament.uk,NULL,Margaret-Ferrier,Rutherglen-and-Hamilton-West
+S14000038,14434,Mr,Ronnie,Cowan,Ronnie Cowan,Inverclyde,Mr Cowan,ronnie.cowan.mp@parliament.uk,,Ronnie-Cowan,Inverclyde
+W07000071,66086,Mr,Gerald,Jones,Gerald Jones,Merthyr Tydfil and Rhymney,Mr Jones,gerald.jones.mp@parliament.uk,,Gerald-Jones,Merthyr-Tydfil-and-Rhymney
+E14000854,66024,Mr,Craig,Tracey,Craig Tracey,North Warwickshire,Mr Tracey,craig.tracey.mp@parliament.uk,,Craig-Tracey,North-Warwickshire
+S14000052,14449,Mr,Gavin,Newlands,Gavin Newlands,Paisley and Renfrewshire North,Mr Newlands,gavin.newlands.mp@parliament.uk,,Gavin-Newlands,Paisley-and-Renfrewshire-North
+W07000060,NULL,,James,Davies,James Davies,Vale of Clwyd,Mr Davies,james.davies.mp@parliament.uk,NULL,James-Davies,Vale-of-Clwyd
+S14000003,14400,Mr,Neil,Gray,Neil Gray,Airdrie and Shotts_old,Mr Gray,neil.gray.mp@parliament.uk,,Neil-Gray,Airdrie-and-Shotts_old
+S14000021,NULL,,Kirsten,Oswald,Kirsten Oswald,East Renfrewshire,Ms Oswald,kirsten.oswald.mp@parliament.uk,NULL,Kirsten-Oswald,East-Renfrewshire
+S14000042,14438,Ms,Angela,Crawley,Angela Crawley,Lanark and Hamilton East,Ms Crawley,angela.crawley.mp@parliament.uk,,Angela-Crawley,Lanark-and-Hamilton-East
+W07000049,66101,Mr,Stephen,Kinnock,Stephen Kinnock,Aberavon,Mr Kinnock,stephen.kinnock.mp@parliament.uk,,Stephen-Kinnock,Aberavon
+E14000570,65981,Mr,Kate,Hollern,Kate Hollern,Blackburn,Ms Hollern,kate.hollern.mp@parliament.uk,,Kate-Hollern,Blackburn
+S14000031,14427,Mr,Patrick,Grady,Patrick Grady,Glasgow North,Mr Grady,patrick.grady.mp@parliament.uk,,Patrick-Grady,Glasgow-North
+S14000048,14445,Ms,Patricia,Gibson,Patricia Gibson,North Ayrshire and Arran,Ms Gibson,patricia.gibson.mp@parliament.uk,,Patricia-Gibson,North-Ayrshire-and-Arran
+S14000012,14409,Mr,Stuart,McDonald,Stuart McDonald,Cumbernauld,,,,,
+W07000061,66096,Mrs,Liz,Roberts,Liz Saville Roberts,Dwyfor Meirionnydd,Mrs Saville Roberts,liz.savilleroberts.mp@parliament.uk,,Liz-Saville-Roberts,Dwyfor-Meirionnydd
+W07000050,66090,Ms,Jo,Stevens,Jo Stevens,Cardiff Central,Ms Stevens,jo.stevens.mp@parliament.uk,,Jo-Stevens,Cardiff-Central
+S14000017,14414,Mr,Douglas,Chapman,Douglas Chapman,Dunfermline and West Fife,Mr Chapman,douglas.chapman.mp@parliament.uk,,Douglas-Chapman,Dunfermline-and-West-Fife
+S14000035,14431,Mr,Chris,Stephens,Chris Stephens,Glasgow South West,Mr Stephens,chris.stephens.mp@parliament.uk,,Chris-Stephens,Glasgow-South-West
+S14000043,14439,Mr,Martyn,Day,Martyn Day,Linlithgow and East Falkirk,Mr Day,martyn.day.mp@parliament.uk,,Martyn-Day,Linlithgow-and-East-Falkirk
+W07000048,66091,Mrs,Carolyn,Harris,Carolyn Harris,Swansea East,Mrs Harris,carolyn.harris.mp@parliament.uk,,Carolyn-Harris,Swansea-East
+E14000581,65821,Mr,Peter,Dowd,Peter Dowd,Bootle,Mr Dowd,peter.dowd.mp@parliament.uk,,Peter-Dowd,Bootle
+E14000673,65808,Rt Hon,Helen,Hayes,Helen Hayes,Dulwich and West Norwood,Ms Hayes,helen.hayes.mp@parliament.uk,,Helen-Hayes,Dulwich-and-West-Norwood
+E14000891,66032,Ms,Anna,Turley,Anna Turley,Redcar,Ms Turley,anna.turley.mp@parliament.uk,anna@anna4redcar.org.uk,Anna-Turley,Redcar
+S14000001,14398,Ms,Kirsty,Blackman,Kirsty Blackman,Aberdeen North,Ms Blackman,kirsty.blackman.mp@parliament.uk,,Kirsty-Blackman,Aberdeen-North
+E14000635,65940,Ms,Michelle,Donelan,Michelle Donelan,Chippenham,Ms Donelan,michelle.donelan.mp@parliament.uk,michelle@michelledonelan.com,Michelle-Donelan,Chippenham
+E14000716,65600,Ms,Melanie,Onn,Melanie Onn,Great Grimsby,Ms Onn,melanie.onn.mp@parliament.uk,,Melanie-Onn,Great-Grimsby
+S14000010,14407,Dr,Philippa,Whitford,Philippa Whitford,Central Ayrshire,Dr Whitford,philippa.whitford.mp@parliament.uk,,Philippa-Whitford,Central-Ayrshire
+E14000649,65636,Ms,Colleen,Fletcher,Colleen Fletcher,Coventry North East,Ms Fletcher,colleen.fletcher.mp@parliament.uk,,Colleen-Fletcher,Coventry-North-East
+E14000759,65630,Mr,Wes,Streeting,Wes Streeting,Ilford North,Mr Streeting,wes.streeting.mp@parliament.uk,wes@redbridgelabour.org.uk,Wes-Streeting,Ilford-North
+E14000963,65732,Ms,Marie,Rimmer,Marie Rimmer,St Helens South and Whiston,Ms Rimmer,marie.rimmer.mp@parliament.uk,,Marie-Rimmer,St-Helens-South-and-Whiston
+S14000034,14430,Mr,Stewart,McDonald,Stewart McDonald,Glasgow South,Mr McDonald,stewart.mcdonald.mp@parliament.uk,,Stewart-McDonald,Glasgow-South
+E14000745,65994,Mr,Oliver,Dowden,Oliver Dowden,Hertsmere,Mr Dowden,oliver.dowden.mp@parliament.uk,oliver@oliverdowden.com,Oliver-Dowden,Hertsmere
+S14000049,14446,Mr,Stephen,Gethins,Stephen Gethins,North East Fife,Mr Gethins,stephen.gethins.mp@parliament.uk,,Stephen-Gethins,North-East-Fife
+E14000553,65689,Mr,Neil,Coyle,Neil Coyle,Bermondsey and Old Southwark,Mr Coyle,neil.coyle.mp@parliament.uk,,Neil-Coyle,Bermondsey-and-Old-Southwark
+S14000029,14425,Ms,Alison,Thewliss,Alison Thewliss,Glasgow Central,Ms Thewliss,alison.thewliss.mp@parliament.uk,,Alison-Thewliss,Glasgow-Central
+E14000752,65883,Ms,Catherine,West,Catherine West,Hornsey and Wood Green,Ms West,catherine.west.mp@parliament.uk,,Catherine-West,Hornsey-and-Wood-Green
+W07000063,NULL,,Craig,Williams,Craig Williams,Montgomeryshire,Mr Williams,craig.williams.mp@parliament.uk,NULL,Craig-Williams,Montgomeryshire
+E14000817,65881,Ms,Mims,Davies,Mims Davies,Mid Sussex,Ms Davies,mims.davies.mp@parliament.uk,,Mims-Davies,Mid-Sussex
+E14000984,66040,Mr,Paul,Scully,Paul Scully,Sutton and Cheam,Mr Scully,paul.scully.mp@parliament.uk,info@scully.org.uk,Paul-Scully,Sutton-and-Cheam
+W07000069,66082,Ms,Christina,Rees,Christina Rees,Neath,Ms Rees,christina.rees.mp@parliament.uk,,Christina-Rees,Neath
+E14000684,NULL,,Caroline,Ansell,Caroline Ansell,Eastbourne,Mrs Ansell,caroline.ansell.mp@parliament.uk,NULL,Caroline-Ansell,Eastbourne
+S14000023,14420,Ms,Deidre,Brock,Deidre Brock,Edinburgh North and Leith,Ms Brock,deidre.brock.mp@parliament.uk,,Deidre-Brock,Edinburgh-North-and-Leith
+E14000989,65992,Ms,Lucy,Allan,Lucy Allan,Telford,Ms Allan,lucy.allan.mp@parliament.uk,,Lucy-Allan,Telford
+E14000999,65692,Mr,Kevin,Foster,Kevin Foster,Torbay,Mr Foster,kevin.foster.mp@parliament.uk,kevin@kevinjfoster.com,Kevin-Foster,Torbay
+E14000630,65946,Mr,Alex,Chalk,Alex Chalk,Cheltenham,Mr Chalk,alex.chalk.mp@parliament.uk,alex@alexchalk.com,Alex-Chalk,Cheltenham
+S14000022,14419,Mr,Tommy,Sheppard,Tommy Sheppard,Edinburgh East,Mr Sheppard,tommy.sheppard.mp@parliament.uk,,Tommy-Sheppard,Edinburgh-East
+E14000531,65773,Ms,Wendy,Morton,Wendy Morton,Aldridge-Brownhills,Ms Morton,wendy.morton.mp@parliament.uk,,Wendy-Morton,Aldridge-Brownhills
+E14000593,65958,Ms,Ruth,Cadbury,Ruth Cadbury,Brentford and Isleworth,Ms Cadbury,ruthcadburymp@parliament.uk,ruth@ruthcadbury.org.uk,Ruth-Cadbury,Brentford-and-Isleworth
+E14000727,65576,Ms,Tulip,Siddiq,Tulip Siddiq,Hampstead and Kilburn,Ms Siddiq,tulip.siddiq.mp@parliament.uk,tulip@tulipsiddiq.com,Tulip-Siddiq,Hampstead-and-Kilburn
+E14000955,66016,Mr,Royston,Smith,Royston Smith,Southampton,,,,,
+E14000857,65894,Mr,Kit,Malthouse,Kit Malthouse,North West Hampshire,Mr Malthouse,kit.malthouse.mp@parliament.uk,kit@kitmalthouse.com,Kit-Malthouse,North-West-Hampshire
+E14000934,65922,Ms,Heidi,Allen,Heidi Allen,South Cambridgeshire,Ms Allen,heidi.allen.mp@parliament.uk,,Heidi-Allen,South-Cambridgeshire
+E14001044,65897,Ms,Margaret,Greenwood,Margaret Greenwood,Wirral West,Ms Greenwood,margaret.greenwood.mp@parliament.uk,,Margaret-Greenwood,Wirral-West
+E14000618,65790,Ms,Amanda,Milling,Amanda Milling,Cannock Chase,Ms Milling,amanda.milling.mp@parliament.uk,amanda@amandamilling.com,Amanda-Milling,Cannock-Chase
+E14000750,65824,Sir,Keir,Starmer,Keir Starmer,Holborn and St Pancras,Sir Keir,keir.starmer.mp@parliament.uk,,Keir-Starmer,Holborn-and-St-Pancras
+E14001023,65961,Ms,Nus,Ghani,Nus Ghani,Wealden,Ms Ghani,nusrat.ghani.mp@parliament.uk,,Nus-Ghani,Wealden
+E14000864,65634,Mr,Clive,Lewis,Clive Lewis,Norwich South,Mr Lewis,clive.lewis.mp@parliament.uk,,Clive-Lewis,Norwich-South
+E14000923,65549,Ms,Louise,Haigh,Louise Haigh,Sheffield,,,,,
+E14001053,65625,Sir,Sue,Hayman,Sue Hayman,Workington,Ms Hayman,sue.hayman.mp@parliament.uk,,Sue-Hayman,Workington
+E14000580,65738,Mr,Chris,Green,Chris Green,Bolton West,Mr Green,chris.green.mp@parliament.uk,chris@chris-green.org.uk,Chris-Green,Bolton-West
+E14000738,65557,Mr,William,Wragg,William Wragg,Hazel Grove,Mr Wragg,william.wragg.mp@parliament.uk,william@williamwragg.org.uk,William-Wragg,Hazel-Grove
+S14000055,14452,Mr,Ian,Blackford,Ian Blackford,Ross,,,,,
+E14000672,66054,Mr,Mike,Wood,Mike Wood,Dudley South,Mr Wood,mikej.wood.mp@parliament.uk,mike@mikewood.mp,Mike-Wood,Dudley-South
+E14000686,65756,Ms,Antoinette,Sandbach,Antoinette Sandbach,Eddisbury,Ms Sandbach,antoinette.sandbach.mp@parliament.uk,,Antoinette-Sandbach,Eddisbury
+E14000568,65707,Ms,Jess,Phillips,Jess Phillips,Birmingham,,,,,
+E14000687,65570,Ms,Kate,Osamor,Kate Osamor,Edmonton,Ms Osamor,kate.osamor.mp@parliament.uk,,Kate-Osamor,Edmonton
+E14000809,65819,Mr,Jeff,Smith,Jeff Smith,Manchester,,,,,
+E14000879,65974,Mr,Johnny,Mercer,Johnny Mercer,Plymouth,,,,,
+E14000911,65688,Ms,Rebecca,Bailey,Rebecca Long Bailey,Salford and Eccles,Ms Long-Bailey,rebecca.longbailey.mp@parliament.uk,,Rebecca-Long-Bailey,Salford-and-Eccles
+S14000005,14402,Mr,Brendan,O'Hara,Brendan O'Hara,Argyll and Bute,Mr O'Hara,brendan.ohara.mp@parliament.uk,,Brendan-OHara,Argyll-and-Bute
+E14000695,65743,Ms,Maggie,Throup,Maggie Throup,Erewash,Ms Throup,maggie.throup.mp@parliament.uk,,Maggie-Throup,Erewash
+E14000932,65812,Mr,David,Warburton,David Warburton,Somerton and Frome,Mr Warburton,david.warburton.mp@parliament.uk,david@davidwarburton.org.uk,David-Warburton,Somerton-and-Frome
+E14000994,65905,Mr,Luke,Hall,Luke Hall,Thornbury and Yate,Mr Hall,luke.hall.mp@parliament.uk,luke@lukehall.org.uk,Luke-Hall,Thornbury-and-Yate
+E14000997,65744,Mr,Tom,Tugendhat,Tom Tugendhat,Tonbridge and Malling,Mr Tugendhat,tom.tugendhat.mp@parliament.uk,,Tom-Tugendhat,Tonbridge-and-Malling
+E14000587,65694,Mr,Imran,Hussain,Imran Hussain,Bradford East,Mr Hussain,imran.hussain.mp@parliament.uk,,Imran-Hussain,Bradford-East
+E14000590,65670,Mr,James,Cleverly,James Cleverly,Braintree,Mr Cleverly,james.cleverly.mp@parliament.uk,,James-Cleverly,Braintree
+E14000656,65923,Mr,Chris,Philp,Chris Philp,Croydon South,Mr Philp,chris.philp.mp@parliament.uk,,Chris-Philp,Croydon-South
+E14000688,65991,Mr,Justin,Madders,Justin Madders,Ellesmere Port and Neston,Mr Madders,justin.madders.mp@parliament.uk,,Justin-Madders,Ellesmere-Port-and-Neston
+E14000718,65837,Mr,Matthew,Pennycook,Matthew Pennycook,Greenwich and Woolwich,Mr Pennycook,matthew.pennycook.mp@parliament.uk,matthew@matthewpennycook.com,Matthew-Pennycook,Greenwich-and-Woolwich
+E14000789,66041,Ms,Vicky,Foxcroft,Vicky Foxcroft,Lewisham,,,,,
+E14000818,65888,Rt Hon,Nigel,Huddleston,Nigel Huddleston,Mid Worcestershire,Mr Huddleston,nigel.huddleston.mp@parliament.uk,,Nigel-Huddleston,Mid-Worcestershire
+S14000039,14435,Mr,Drew,Hendry,Drew Hendry,Inverness,,,,,
+E14000837,65602,Mr,Scott,Mann,Scott Mann,North Cornwall,Mr Mann,scott@scottmann.org.uk,,Scott-Mann,North-Cornwall
+E14001060,65935,Mr,Marcus,Fysh,Marcus Fysh,Yeovil,Mr Fysh,marcus.fysh.mp@parliament.uk,marcus@marcusfysh.org.uk,Marcus-Fysh,Yeovil
+E14000589,66036,Miss,Naz,Shah,Naz Shah,Bradford West,Miss Shah,naz.shah.mp@parliament.uk,,Naz-Shah,Bradford-West
+E14000617,65927,Mr,Daniel,Zeichner,Daniel Zeichner,Cambridge,Mr Zeichner,daniel.zeichner.mp@parliament.uk,daniel@danielzeichner.co.uk,Daniel-Zeichner,Cambridge
+E14000648,65590,Mr,Tom,Pursglove,Tom Pursglove,Corby,Mr Pursglove,tom.pursglove.mp@parliament.uk,,Tom-Pursglove,Corby
+E14000931,65879,Mr,Julian,Knight,Julian Knight,Solihull,Mr Knight,julian.knight.mp@parliament.uk,,Julian-Knight,Solihull
+E14000943,65951,Ms,Seema,Kennedy,Seema Kennedy,South Ribble,Mrs Lewell-Buck,seema.kennedy.mp@parliament.uk,,Seema-Kennedy,South-Ribble
+E14000601,66031,Ms,Karin,Smyth,Karin Smyth,Bristol South,Ms Smyth,karin.smyth.mp@parliament.uk,,Karin-Smyth,Bristol-South
+E14000778,65941,Mr,Richard,Burgon,Richard Burgon,Leeds East,Mr Burgon,richard.burgon.mp@parliament.uk,richard@richardburgon.com,Richard-Burgon,Leeds-East
+E14000811,NULL,,Flick,Drummond,Flick Drummond,Meon Valley,Mrs Drummond,flick.drummond.mp@parliament.uk,NULL,Flick-Drummond,Meon-Valley
+E14000588,65995,Ms,Judith,Cummins,Judith Cummins,Bradford South,Ms Cummins,judith.cummins.mp@parliament.uk,,Judith-Cummins,Bradford-South
+E14000582,65969,Mr,Matt,Warman,Matt Warman,Boston and Skegness,Mr Warman,matt.warman.mp@parliament.uk,,Matt-Warman,Boston-and-Skegness
+E14000625,65615,Mr,Edward,Argar,Edward Argar,Charnwood,Mr Argar,edward.argar.mp@parliament.uk,,Edward-Argar,Charnwood
+E14000786,66020,Ms,Maria,Caulfield,Maria Caulfield,Lewes,Ms Caulfield,maria.caulfield.mp@parliament.uk,,Maria-Caulfield,Lewes
+E14000700,65764,Ms,Helen,Whately,Helen Whately,Faversham and Mid Kent,Ms Whately,helen.whately.mp@parliament.uk,,Helen-Whately,Faversham-and-Mid-Kent
+E14000937,65997,Ms,Lucy,Frazer,Lucy Frazer,South East Cambridgeshire,Ms Frazer,lucy.frazer.mp@parliament.uk,lucy@lucyfrazer.org.uk,Lucy-Frazer,South-East-Cambridgeshire
+E14000602,65574,Ms,Thangam,Debbonaire,Thangam Debbonaire,Bristol West,Ms Debbonaire,thangam.debbonaire.mp@parliament.uk,,Thangam-Debbonaire,Bristol-West
+E14000644,65926,Mr,Will,Quince,Will Quince,Colchester,Mr Quince,will.quince.mp@parliament.uk,,Will-Quince,Colchester
+S14000025,14422,Ms,Joanna,Cherry,Joanna Cherry,Edinburgh South West,Ms Cherry,joanna.cherry.mp@parliament.uk,,Joanna-Cherry,Edinburgh-South-West
+E14000627,65727,Ms,Mary,Robinson,Mary Robinson,Cheadle,Ms Robinson,mary.robinson.mp@parliament.uk,maryrobinson@cheadleconservatives.com,Mary-Robinson,Cheadle
+S14000033,14429,Ms,Carol,Monaghan,Carol Monaghan,Glasgow North West,Ms Monaghan,carol.monaghan.mp@parliament.uk,,Carol-Monaghan,Glasgow-North-West
+E14000988,65767,Ms,Rebecca,Pow,Rebecca Pow,Taunton Deane,Ms Pow,rebecca.pow.mp@parliament.uk,,Rebecca-Pow,Taunton-Deane
+E14000613,66035,Ms,Jo,Churchill,Jo Churchill,Bury St Edmunds,Ms Churchill,jo.churchill.mp@parliament.uk,lesley.canham@parliament.uk,Jo-Churchill,Bury-St-Edmunds
+S14000044,14440,Ms,Hannah,Bardell,Hannah Bardell,Livingston,Ms Bardell,hannah.bardell.mp@parliament.uk,,Hannah-Bardell,Livingston
+E14000961,65591,Mr,Steve,Double,Steve Double,St Austell and Newquay,Mr Double,steve.double.mp@parliament.uk,office@stevedouble.org.uk,Steve-Double,St-Austell-and-Newquay
+E14000640,65734,Mr,Chris,Matheson,Chris Matheson,City of Chester,Mr Matheson,chris.matheson.mp@parliament.uk,chris@chrismatheson.co.uk,Chris-Matheson,City-of-Chester
+E14000838,65658,Mr,Peter,Heaton-Jones,Peter Heaton-Jones,North Devon,Mr Heaton-Jones,peter.heatonjones.mp@parliament.uk,,Peter-Heaton-Jones,North-Devon
+E14000940,66034,Mr,Alberto,Costa,Alberto Costa,South Leicestershire,Mr Costa,alberto.costa.mp@parliament.uk,,Alberto-Costa,South-Leicestershire
+E14000946,65614,Mr,James,Cartlidge,James Cartlidge,South Suffolk,Mr Cartlidge,james.cartlidge.mp@parliament.uk,,James-Cartlidge,South-Suffolk
+E14000993,65686,Mr,Kevin,Hollinrake,Kevin Hollinrake,Thirsk and Malton,Mr Hollinrake,kevin.hollinrake.mp@parliament.uk,office@kevinhollinrake.org.uk,Kevin-Hollinrake,Thirsk-and-Malton
+E14000753,65717,Mr,Jeremy,Quin,Jeremy Quin,Horsham,Mr Quin,jeremy.quin.mp@parliament.uk,,Jeremy-Quin,Horsham
+E14000755,65691,Dr,Peter,Kyle,Peter Kyle,Hove,Dr Kyle,peter.kyle.mp@parliament.uk,,Peter-Kyle,Hove
+E14000844,65729,Mr,Ranil,Jayawardena,Ranil Jayawardena,North East Hampshire,Mr Jayawardena,ranil.jayawardena.mp@parliament.uk,ranil@tellranil.com,Ranil-Jayawardena,North-East-Hampshire
+E14000539,66008,Mrs,Victoria,Prentis,Victoria Prentis,Banbury,Mrs Prentis,victoria.prentis.mp@parliament.uk,,Victoria-Prentis,Banbury
+E14000666,65746,Ms,Paula,Sherriff,Paula Sherriff,Dewsbury,Ms Sherriff,paula.sherriff.mp@parliament.uk,paula@paulasherriff.org.uk,Paula-Sherriff,Dewsbury
+E14000815,66061,Mr,Michael,Tomlinson,Michael Tomlinson,Mid Dorset and North Poole,Mr Tomlinson,michael.tomlinson.mp@parliament.uk,,Michael-Tomlinson,Mid-Dorset-and-North-Poole
+E14000962,66073,Mr,Conor,McGinn,Conor McGinn,St Helens North,Mr McGinn,conor.mcginn.mp@parliament.uk,contact@conormcginn.co.uk,Conor-McGinn,St-Helens-North
+E14000798,65987,Ms,Victoria,Atkins,Victoria Atkins,Louth and Horncastle,Ms Atkins,,victoria@victoriaatkins.org.uk,Victoria-Atkins,Louth-and-Horncastle
+E14000557,65845,Mr,Huw,Merriman,Huw Merriman,Bexhill and Battle,Mr Merriman,huw.merriman.mp@parliament.uk,,Huw-Merriman,Bexhill-and-Battle
+E14000839,65702,Rt Hon Dame,Simon,Hoare,Simon Hoare,North Dorset,Mr Hoare,simon.hoare.mp@parliament.uk,diana.mogg@parliament.uk,Simon-Hoare,North-Dorset
+E14000895,65722,Mr,Rishi,Sunak,Rishi Sunak,Richmond (Yorks),Mr Sunak,rishi.sunak.mp@parliament.uk,,Rishi-Sunak,Richmond-(Yorks)
+E14000537,66056,Ms,Angela,Rayner,Angela Rayner,Ashton-under-Lyne,Ms Rayner,angela.rayner.mp@parliament.uk,angela@angelarayner.com,Angela-Rayner,Ashton-under-Lyne
+E14000898,66043,Ms,Kelly,Tolhurst,Kelly Jane Tolhurst,Rochester and Strood,Ms Tolhurst,kelly.tolhurst.mp@parliament.uk,,Kelly-Jane-Tolhurst,Rochester-and-Strood
+E14000826,65735,Mr,Andrea,Jenkyns,Andrea Jenkyns,Morley and Outwood,Ms Jenkyns,andrea.jenkyns.mp@parliament.uk,,Andrea-Jenkyns,Morley-and-Outwood
+E14000776,65568,Ms,Cat,Smith,Cat Smith,Lancaster and Fleetwood,Ms Smith,cat.smith.mp@parliament.uk,cat@catsmith.co.uk,Cat-Smith,Lancaster-and-Fleetwood
+E14001061,65965,Ms,Rachael,Maskell,Rachael Maskell,York Central,Ms Maskell,rachael.maskell.mp@parliament.uk,,Rachael-Maskell,York-Central
+E14000723,65599,Ms,Holly,Walker-Lynch,Holly Walker-Lynch,Halifax,Ms Lynch,holly.lynch.mp@parliament.uk,,Holly-Walker-Lynch,Halifax
+E14000973,65783,Mrs,Ruth,Smeeth,Ruth Smeeth,Stoke-on-Trent North,Mrs Smeeth,ruth.smeeth.mp@parliament.uk,,Ruth-Smeeth,Stoke-on-Trent-North
+E14000662,NULL,,Amanda,Solloway,Amanda Solloway,Derby North,Ms Solloway,amanda.solloway.mp@parliament.uk,NULL,Amanda-Solloway,Derby-North
+E14000948,65829,Mr,Craig,Mackinlay,Craig Mackinlay,South Thanet,Mr Mackinlay,craig.mackinlay.mp@parliament.uk,,Craig-Mackinlay,South-Thanet
+E14001026,65560,Mr,James,Heappey,James Heappey,Wells,Mr Heappey,james.heappey.mp@parliament.uk,,James-Heappey,Wells
+E14000554,65726,Mrs,Anne-Marie,Trevelyan,Anne-Marie Trevelyan,Berwick-upon-Tweed,Mrs Trevelyan,annemarie.trevelyan.mp@parliament.uk,trevelyanoffice@gmail.com,Anne-Marie-Trevelyan,Berwick-upon-Tweed
+E14000964,65854,Mr,Derek,Thomas,Derek Thomas,St Ives,Mr Thomas,derek.thomas.mp@parliament.uk,,Derek-Thomas,St-Ives
+N06000003,NULL,,Claire,Hanna,Claire Hanna,Belfast South,Ms Hanna,claire.hanna.mp@parliament.uk,NULL,Claire-Hanna,Belfast-South
+N06000003,NULL,Mrs,Emma,Little Pengelly,Emma Little-Pengelly,Belfast South,Mrs Little Pengelly,emma.littlepengelly.mp@parliament.uk,emmamjpengelly@gmail.com,Emma-Little-Pengelly,Belfast-South
+E14000871,66022,Mr,Jim,McMahon,Jim McMahon,Oldham West and Royton,Mr McMahon,jim.mcmahon.mp@parliament.uk,jim@jimmcmahon.co.uk,Jim-McMahon,Oldham-West-and-Royton
+E14000921,65601,Ms,Gill,Furniss,Gill Furniss,Sheffield,,,,,
+W07000074,66107,Mr,Chris,Elmore,Chris Elmore,Ogmore,Mr Elmore,Chris.Elmore.mp@parliament.uk,,Chris-Elmore,Ogmore
+S14000046,NULL,Mr,Douglas,Ross,Douglas Ross,Moray,Mr Ross,douglas.ross.mp@parliament.uk,douglas.ross@scottishconservatives.com,Douglas-Ross,Moray
+S14000002,NULL,Mr,Ross,Thomson,Ross Thomson,Aberdeen South,Mr Thomson,ross.thomson.mp@parliament.uk,ross.thomson@scottishconservatives.com,Ross-Thomson,Aberdeen-South
+N06000017,66140,,Carla,Lockhart,Carla Lockhart,Upper Bann,Mrs Lockhart,carla.lockhart.mp@parliament.uk,NULL,Carla-Lockhart,Upper-Bann
+E14000998,65554,Dr,Rosena,Allin-Khan,Rosena Allin-Khan,Tooting,Dr Allin-Khan,rosena.allinkhan.mp@parliament.uk,,Rosena-Allin-Khan,Tooting
+E14000548,65751,Ms,Tracy,Brabin,Tracy Brabin,Batley and Spen,Ms Brabin,tracy.brabin.mp@parliament.uk,,Tracy-Brabin,Batley-and-Spen
+E14000896,NULL,,Sarah,Olney,Sarah Olney,Richmond Park,Ms Olney,sarah.olney.mp@parliament.uk,NULL,Sarah-Olney,Richmond-Park
+E14000929,65920,Ms,Caroline,Johnson,Caroline Johnson,Sleaford and North Hykeham,Dr Johnson,caroline.johnson.mp@parliament.uk,,Caroline-Johnson,Sleaford-and-North-Hykeham
+E14000647,65893,Mr,Trudy,Harrison,Trudy Harrison,Copeland,Mrs Harrison,trudy.harrison.mp@parliament.uk,,Trudy-Harrison,Copeland
+E14000972,65710,Mr,Gareth,Snell,Gareth Snell,Stoke-on-Trent Central,Mr Snell,gareth.snell.mp@parliament.uk,,Gareth-Snell,Stoke-on-Trent-Central
+N06000008,NULL,Ms,Elisha,McCallion,Elisha McCallion,Foyle,Ms McCallion,elisha.mccallion.mp@parliament.uk,,Elisha-McCallion,Foyle
+E14000785,NULL,Ms,Jo,Platt,Jo Platt,Leigh,Ms Platt,joanne.platt.mp@parliament.uk,,Jo-Platt,Leigh
+S14000056,NULL,Mr,Gerard,Killen,Gerard Killen,Rutherglen and Hamilton West,Mr Killen,gerard.killen.mp@parliament.uk,,Gerard-Killen,Rutherglen-and-Hamilton-West
+E14000628,NULL,Mrs,Vicky,Ford,Vicky Ford,Chelmsford,Mrs Ford,vicky.ford.mp@parliament.uk,vicky@vickyford.uk,Vicky-Ford,Chelmsford
+S14000004,NULL,Ms,Kirstene,Hair,Kirstene Hair,Angus,Ms Hair,kirstene.hair.mp@parliament.uk,kirstene.hair@scottishconservatives.com,Kirstene-Hair,Angus
+E14000542,NULL,Ms,Stephanie,Peacock,Stephanie Peacock,Barnsley East,Ms Peacock,stephanie.peacock.mp@parliament.uk,stephanie@stephaniepeacock.co.uk,Stephanie-Peacock,Barnsley-East
+E14000873,NULL,Ms,Anneliese,Dodds,Anneliese Dodds,Oxford East,Ms Dodds,anneliese.dodds.mp@parliament.uk,,Anneliese-Dodds,Oxford-East
+E14000733,NULL,Mr,Mike,Hill,Mike Hill,Hartlepool,Mr Hill,mike.hill.mp@parliament.uk,,Mike-Hill,Hartlepool
+E14000549,NULL,Ms,Marsha,Cordova,Marsha de Cordova,Battersea,Ms De Cordova,marsha.decordova.mp@parliament.uk,Marsha4Battersea@gmail.com,Marsha-De-Cordova,Battersea
+E14000971,NULL,Dr,Paul,Williams,Paul Daniel Williams,Stockton South,Dr Williams,paul.williams.mp@parliament.uk,,Paul-Daniel-Williams,Stockton-South
+E14000611,NULL,Mr,James,Frith,James Frith,Bury North,Mr Frith,james.frith.mp@parliament.uk,James@Frith4BuryNorth.com,James-Frith,Bury-North
+E14000574,NULL,Ms,Liz,Twist,Liz Twist,Blaydon,Ms Twist,liz.twist.mp@parliament.uk,liztwist@outlook.com,Liz-Twist,Blaydon
+S14000050,NULL,Mr,Luke,Graham,Luke Graham,Ochil and South Perthshire,Mr Graham,luke.graham.mp@parliament.uk,luke.graham@scottishconservatives.com,Luke-Graham,Ochil-and-South-Perthshire
+E14000530,NULL,Mr,Leo,Docherty,Leo Docherty,Aldershot,Mr Docherty,leo.docherty.mp@parliament.uk,leo.docherty@gmail.com,Leo-Docherty,Aldershot
+N06000014,NULL,Mr,Paul,Girvan,Paul Girvan,South Antrim,Mr Girvan,paul.girvan.mp@parliament.uk,paul.girvan@co.niassembly.gov.uk,Paul-Girvan,South-Antrim
+E14000958,NULL,Mr,Damien,Moore,Damien Moore,Southport,Mr Moore,damien.moore.mp@parliament.uk,damien.moore@southportconservatives.org,Damien-Moore,Southport
+E14001051,NULL,Ms,Eleanor,Smith,Eleanor Smith,Wolverhampton South West,Ms Smith,eleanor.smith.mp@parliament.uk,,Eleanor-Smith,Wolverhampton-South-West
+E14000748,NULL,Mrs,Ruth,George,Ruth George,High Peak,Mrs George,ruth.george.mp@parliament.uk,Ruth@Labourhighpeak.info,Ruth-George,High-Peak
+W07000046,NULL,Ms,Tonia,Antoniazzi,Tonia Antoniazzi,Gower,Ms Antoniazzi,tonia.antoniazzi.mp@parliament.uk,tonia4gower@gmail.com,Tonia-Antoniazzi,Gower
+E14000761,NULL,Mr,Sandy,Martin,Sandy Martin,Ipswich,Mr Martin,sandy.martin.mp@parliament.uk,sandyofipswich@yahoo.co.uk,Sandy-Martin,Ipswich
+E14000922,NULL,Mr,Jared,O'Mara,Jared Cain O'Mara,Sheffield,,,,,
+E14000600,NULL,Mr,Darren,Jones,Darren Jones,Bristol North West,Mr Jones,darren.jones.mp@parliament.uk,contact@darren-jones.co.uk,Darren-Jones,Bristol-North-West
+S14000032,NULL,Mr,Paul,Sweeney,Paul Sweeney,Glasgow North East,Mr Sweeney,paul.sweeney.mp@parliament.uk,sweeney4labour@gmail.com,Paul-Sweeney,Glasgow-North-East
+E14000856,NULL,Ms,Laura,Pidcock,Laura Pidcock,North West Durham,Ms Pidcock,laura.pidcock.mp@parliament.uk,,Laura-Pidcock,North-West-Durham
+E14000794,NULL,Mr,Dan,Carden,Dan Carden,Liverpool,,,,,
+S14000006,NULL,Mr,Bill ,Grant,Bill Grant,Ayr,,,,,
+E14000642,NULL,Mr,Giles,Watling,Giles Watling,Clacton,Mr Watling,giles.watling.mp@parliament.uk,giles@watling4clacton.co.uk,Giles-Watling,Clacton
+E14000762,NULL,Mr,Bob,Seely,Bob Seely,Isle of Wight,Mr Seely,bob.seely.mp@parliament.uk,,Bob-Seely,Isle-of-Wight
+E14000773,NULL,Ms,Emma,Hardy,Emma Hardy,Kingston upon Hull West and Hessle,Ms Hardy,emma.hardy.mp@parliament.uk,,Emma-Hardy,Kingston-upon-Hull-West-and-Hessle
+W07000051,NULL,Ms,Anna,McMorrin,Anna McMorrin,Cardiff North,Ms McMorrin,anna.mcmorrin.mp@parliament.uk,anna4cardiffnorth2017@gmail.com,Anna-McMorrin,Cardiff-North
+E14000547,NULL,Mrs,Wera,Hobhouse,Wera Hobhouse,Bath,Mrs Hobhouse,office@werahobhouse.co.uk,office@werahobhouse.co.uk,Wera-Hobhouse,Bath
+E14000552,NULL,Mr,Mohammad,Yasin,Mohammad Yasin,Bedford,Mr Yasin,mohammad.yasin.mp@parliament.uk,yasin.bedford@yahoo.co.uk,Mohammad-Yasin,Bedford
+S14000020,NULL,Mr,Martin,Whitfield,Martin Whitfield,East Lothian,Mr Whitfield,martin.whitfield.mp@parliament.uk,labour@stronger4eastlothian.org,Martin-Whitfield,East-Lothian
+E14000751,NULL,Mrs,Julia,Lopez,Julia Lopez,Hornchurch and Upminster,Mrs Lopez,julia.dockerill.mp@parliament.uk,,Julia-Lopez,Hornchurch-and-Upminster
+S14000041,NULL,Ms,Lesley,Laird,Lesley Laird,Kirkcaldy and Cowdenbeath,Ms Laird,lesley.laird.mp@parliament.uk,,Lesley-Laird,Kirkcaldy-and-Cowdenbeath
+S14000021,NULL,Mr,Paul,Masterton,Paul Masterton,East Renfrewshire,Mr Masterton,paul.masterton.mp@parliament.uk,paul.masterton@scottishconservatives.com,Paul-Masterton,East-Renfrewshire
+E14000619,NULL,Ms,Rosie,Duffield,Rosie Duffield,Canterbury,Ms Duffield,rosie.duffield.mp@parliament.uk,rosie.duffield@canterburylabour.org.uk,Rosie-Duffield,Canterbury
+E14000820,NULL,Mr,Simon,Clarke,Simon Clarke,Middlesbrough South and East Cleveland,Mr Clarke,simon.clarke.mp@parliament.uk,simon@simon-clarke.org.uk,Simon-Clarke,Middlesbrough-South-and-East-Cleveland
+E14000884,NULL,Mr,Stephen,Morgan,Stephen Morgan,Portsmouth South,Mr Morgan,stephen.morgan.mp@parliament.uk,stephen4portsmouth@gmail.com,Stephen-Morgan,Portsmouth-South
+E14000594,NULL,Mr,Alex,Burghart,Alex Burghart,Brentwood and Ongar,Mr Burghart,burgharta2@parliament.uk,boca@tory.org,Michael-Alex-Burghart,Brentwood-and-Ongar
+S14000011,NULL,Mr,Hugh,Gaffney,Hugh Gaffney,Coatbridge,,,,,
+E14000749,NULL,Mr,Bim,Afolami,Bim Afolami,Hitchin and Harpenden,Mr Afolami,bim.afolami.mp@parliament.uk,bimafolami2@gmail.com,Bim-Afolami,Hitchin-and-Harpenden
+E14000808,NULL,Mr,Afzal,Khan,Afzal Khan,Manchester,,,,,
+S14000007,NULL,Mr,David,Duguid,David Duguid,Banff and Buchan,Mr Duguid,david.duguid.mp@parliament.uk,,David-Duguid,Banff-and-Buchan
+E14000560,NULL,Ms,Preet,Gill,Preet Kaur Gill,Birmingham,,,,,
+E14000597,NULL,Mr,Lloyd,Russell-Moyle,Lloyd Russell-Moyle,Brighton,,,,,
+S14000009,NULL,Mr,Jamie,Stone,Jamie Stone,Caithness,,,,,
+W07000064,NULL,Mr,Ben,Lake,Ben Lake,Ceredigion,Mr Lake,ben.lake.mp@parliament.uk,,Ben-Lake,Ceredigion
+E14000633,NULL,Mrs,Gillian,Keegan,Gillian Keegan,Chichester,Mrs Keegan,gillian.keegan.mp@parliament.uk,Gillian@GillianKeegan.com,Gillian-Keegan,Chichester
+E14000645,NULL,Ms,Thelma,Walker,Thelma Walker,Colne Valley,Ms Walker,thelma.walker.mp@parliament.uk,thelma@thelmawalker4cv.co.uk,Thelma-Walker,Colne-Valley
+E14000653,NULL,Ms,Laura,Smith,Laura Smith,Crewe and Nantwich,Ms Smith,laura.smith.mp@parliament.uk,laura@creweandnantwichlabourparty.co.uk,Laura-Smith,Crewe-and-Nantwich
+E14000654,NULL,Ms,Sarah,Jones,Sarah Jones,Croydon Central,Ms Jones,sarah.jones.mp@parliament.uk,sarah.jones@croydonlabour.org.uk,Sarah-Jones,Croydon-Central
+S14000013,NULL,Mr,Alister,Jack,Alister Jack,Dumfries and Galloway,Mr Jack,alister.jack.mp@parliament.uk,,Alister-Jack,Dumfries-and-Galloway
+S14000026,NULL,Ms,Christine,Jardine,Christine Jardine,Edinburgh West,Ms Jardine,christine.jardine.mp@parliament.uk,cj@christinejardine.com,Christine-Jardine,Edinburgh-West
+E14000692,NULL,Mr,Bambos,Charalambous,Bambos Charalambous,Enfield,,,,,
+S14000030,NULL,Mr,David,Linden,David Linden,Glasgow East,Mr Linden,david.linden.mp@parliament.uk,,David-Linden,Glasgow-East
+S14000037,NULL,Mr,Colin,Clark,Colin Clark,Gordon,Mr Clark,colin.clark.mp@parliament.uk,colin@colinclark.org.uk,Colin-Clark,Gordon
+E14000728,NULL,Mr,Neil,O'Brien,Neil O'Brien,Harborough,Mr O'Brien,neil.obrien.mp@parliament.uk,,Neil-OBrien,Harborough
+E14000780,NULL,Mr,Alex,Sobel,Alex Sobel,Leeds North West,Mr Sobel,alex.sobel.mp@parliament.uk,,Alex-Sobel,Leeds-North-West
+E14000788,NULL,Ms,Ellie,Reeves,Ellie Reeves,Lewisham West and Penge,Ms Reeves,ellie.reeves.mp@parliament.uk,Ellie@EllieReeves.org.uk,Ellie-Reeves,Lewisham-West-and-Penge
+E14000792,NULL,Ms,Karen,Lee,Karen Lee,Lincoln,Ms Lee,karen.lee.mp@parliament.uk,,Karen-Lee,Lincoln
+E14000810,NULL,Mr,Ben,Bradley,Ben Bradley,Mansfield,Mr Bradley,ben.bradley.mp@parliament.uk,,Ben-Bradley,Mansfield
+S14000045,NULL,Ms,Danielle,Rowley,Danielle Rowley,Midlothian,Ms Rowley,danielle.rowley.mp@parliament.uk,dani4midlothian@gmail.com,Danielle-Rowley,Midlothian
+E14000843,NULL,Mr,Lee,Rowley,Lee Rowley,North East Derbyshire,Mr Rowley,lee.rowley.mp@parliament.uk,lee@leerowley.com,Lee-Rowley,North-East-Derbyshire
+E14000862,NULL,Mr,Andrew,Lewer,Andrew Lewer,Northampton South,Mr Lewer,andrew.lewer.mp@parliament.uk,,Andrew-Lewer,Northampton-South
+E14000866,NULL,Mr,Alex,Norris,Alex Norris,Nottingham North,Mr Norris,alex.norris.mp@parliament.uk,,Alex-Norris,Nottingham-North
+E14000874,NULL,Ms,Layla,Moran,Layla Moran,Oxford West and Abingdon,Ms Moran,layla.moran.mp@parliament.uk,layla.moran@oxwablibdems.org.uk,Layla-Moran,Oxford-West-and-Abingdon
+E14000880,NULL,Mr,Luke,Pollard,Luke Pollard,Plymouth,,,,,
+E14000889,NULL,Mr,Matt,Rodda,Matt Rodda,Reading East,Mr Rodda,matt.rodda.mp@parliament.uk,matt4readingeast@virginmedia.com,Matt-Rodda,Reading-East
+E14000892,NULL,Ms,Rachel,Maclean,Rachel Maclean,Redditch,Ms Maclean,rachel.maclean.mp@parliament.uk,info@rachelmaclean.org,Rachel-Maclean,Redditch
+E14000910,NULL,Mrs,Kemi,Badenoch,Kemi Badenoch,Saffron Walden,Mrs Badenoch,kemi.badenoch.mp@parliament.uk,,Kemi-Badenoch,Saffron-Walden
+S14000057,NULL,Mr,Stephen,Kerr,Stephen Kerr,Stirling,Mr Kerr,stephen.kerr.mp@parliament.uk,stephenkerr@stirlingconservatives.com,Stephen-Kerr,Stirling
+E14001011,NULL,Mr,Eddie,Hughes,Eddie Hughes,Walsall North,Mr Hughes,eddie.hughes.mp@parliament.uk,cllr.eddie.hughes@walsall.gov.uk,Eddie-Hughes,Walsall-North
+E14001018,NULL,Mr,Faisal,Rashid,Faisal Rashid,Warrington South,Mr Rashid,faisal.rashid.mp@parliament.uk,,Faisal-Rashid,Warrington-South
+E14001019,NULL,Mr,Matt,Western,Matt Western,Warwick and Leamington,Mr Western,matt.western.mp@parliament.uk,,Matt-Western,Warwick-and-Leamington
+E14001024,NULL,Mr,Mike,Amesbury,Mike Amesbury,Weaver Vale,Mr Amesbury,mike.amesbury.mp@parliament.uk,,Mike-Amesbury,Weaver-Vale
+S14000058,NULL,Mr,Andrew,Bowie,Andrew Bowie,West Aberdeenshire and Kincardine,Mr Bowie,andrew.bowie.mp@parliament.uk,,Andrew-Bowie,West-Aberdeenshire-and-Kincardine
+E14000768,NULL,Ms,Emma,Dent Coad,Emma Dent Coad,Kensington,Ms Dent Coad,emma.dentcoad.mp@parliament.uk,kensingtonlabour@gmail.com,Emma-Dent-Coad,Kensington
+N06000018,NULL,Ms,Órfhlaith,Begley,Órfhlaith Begley,West Tyrone,Ms Begley,orfhlaith.begley.mp@parliament.uk,NULL,Órfhlaith-Begley,West-Tyrone
+E14000787,65705,Ms,Janet,Daby,Janet Daby,Lewisham East,Ms Daby,janet.daby.mp@parliament.uk,,Janet-Daby,Lewisham-East
+W07000056,66099,Ms,Ruth,Jones,Ruth Jones,Newport West,Mrs Jones,ruth.jones.mp@parliament.uk,,Ruth-Jones,Newport-West
+E14000872,NULL,,Gareth,Bacon,Gareth Bacon,Orpington,Mr Bacon,gareth.bacon.mp@parliament.uk,NULL,Gareth-Bacon,Orpington
+E14001008,NULL,,Florence,Eshalomi,Florence Eshalomi,Vauxhall,Ms Eshalomi,florence.eshalomi.mp@parliament.uk,NULL,Florence-Eshalomi,Vauxhall
+E14000878,NULL,Ms,Lisa,Forbes,Lisa Forbes,Peterborough,Ms Forbes,lisa.forbes.mp@parliament.uk,,Lisa-Forbes,Peterborough
+W07000068,66088,Ms,Jane,Dodds,Jane Dodds,Brecon and Radnorshire,Ms Dodds,jane.dodds.mp@parliament.uk,,Jane-Dodds,Brecon-and-Radnorshire
+E14000575,NULL,,Ian,Levy,Ian Levy,Blyth Valley,Mr Levy,ian.levy.mp@parliament.uk,NULL,Ian-Levy,Blyth-Valley
+E14001053,NULL,,Mark,Jenkinson,Mark Jenkinson,Workington,Mr Jenkinson,mark.jenkinson.mp@parliament.uk,NULL,Mark-Jenkinson,Workington
+E14000658,NULL,,Peter,Gibson,Peter Gibson,Darlington,Mr Gibson,peter.gibson.mp@parliament.uk,NULL,Peter-Gibson,Darlington
+E14000765,NULL,,Kate,Osborne,Kate Osborne,Jarrow,Ms Osborne,kate.osborne.mp@parliament.uk,NULL,Kate-Osborne,Jarrow
+E14000878,NULL,,Paul,Bristow,Paul Bristow,Peterborough,Mr Bistrow,paul.bristow.mp@parliament.uk,NULL,Paul-Bristow,Peterborough
+S14000004,NULL,,Dave,Doogan,Dave Doogan,Angus,Mr Doogan,dave.doogan.mp@parliament.uk,NULL,Dave-Doogan,Angus
+E14000782,NULL,,Claudia,Webbe,Claudia Webbe,Leicester East,Ms Webbe,claudia.webbe.mp@parliament.uk,NULL,Claudia-Webbe,Leicester-East
+E14000559,NULL,,Mick,Whitley,Mick Whitley,Birkenhead,Mr Whitley,mick.whitley.mp@parliament.uk,NULL,Mick-Whitley,Birkenhead
+W07000062,NULL,,Simon,Baynes,Simon Baynes,Clwyd South,Mr Baynes,simon.baynes.mp@parliament.uk,NULL,Simon-Baynes,Clwyd-South
+E14000573,NULL,,Scott,Benton,Scott Lloyd Benton,Blackpool South,Mr Benton,scott.benton.mp@parliament.uk,NULL,Scott-Lloyd-Benton,Blackpool-South
+E14000675,NULL,,James,Murray,James Murray,Ealing North,Mr Murray,james.murray.mp@parliament.uk,NULL,James-Murray,Ealing-North
+E14001003,NULL,,Cherilyn,Mackrory,Cherilyn Mackrory,Truro and Falmouth,Ms Mackrory,cherilyn.mackrory.mp@parliament.uk,NULL,Cherilyn-Mackrory,Truro-and-Falmouth
+E14000793,NULL,,Kim,Johnson,Kim Johnson,Liverpool,,,,,
+E14000914,NULL,,Holly,Mumby-Croft,Holly Mumby-Croft,Scunthorpe,Mr Mumby-Croft,holly.mumbycroft.mp@parliament.uk,NULL,Holly-Mumby-Croft,Scunthorpe
+E14000583,NULL,,Luke,Evans,Luke Evans,Bosworth,Mr Evans,luke.evans.mp@parliament.uk,NULL,Luke-Evans,Bosworth
+E14000891,NULL,,Jacob,Young,Jacob Young,Redcar,Mr Young,jacob.young.mp@parliament.uk,NULL,Jacob-Young,Redcar
+E14001049,NULL,,Jane,Stevenson,Jane Stevenson,Wolverhampton North East,Ms Stevenson,jane.stevenson.mp@parliament.uk,NULL,Jane-Stevenson,Wolverhampton-North-East
+E14000685,NULL,,Paul,Holmes,Paul Holmes,Eastleigh,Mr Holmes,paul.holmes.mp@parliament.uk,NULL,Paul-Holmes,Eastleigh
+E14000801,NULL,,Rachel,Hopkins,Rachel Hopkins,Luton South,Ms Hopkins,rachel.hopkins.mp@parliament.uk,NULL,Rachel-Hopkins,Luton-South
+W07000044,NULL,,Sarah,Atherton,Sarah Atherton,Wrexham,Ms Atherton,sarah.atherton.mp@parliament.uk,NULL,Sarah-Atherton,Wrexham
+E14000761,NULL,,Tom,Hunt,Tom Hunt,Ipswich,Mr Hunt,tom.hunt.mp@parliament.uk,NULL,Tom-Hunt,Ipswich
+E14000785,NULL,,James,Grundy,James Grundy,Leigh,Mr Grundy,james.grundy.mp@parliament.uk,NULL,James-Grundy,Leigh
+E14000887,NULL,,Fleur,Anderson,Fleur Anderson,Putney,Ms Anderson,fleur.anderson.mp@parliament.uk,NULL,Fleur-Anderson,Putney
+E14001030,NULL,,Shaun,Bailey,Shaun Stephen Bailey,West Bromwich West,Mr Bailey,shaun.bailey.mp@parliament.uk,NULL,Shaun-Stephen-Bailey,West-Bromwich-West
+E14000569,NULL,,Dehenna,Davison,Dehenna Davison,Bishop Auckland,Ms Davison,dehenna.davison.mp@parliament.uk,NULL,Dehenna-Davison,Bishop-Auckland
+E14000796,NULL,,Ian,Byrne,Ian Byrne,Liverpool,,,,,
+E14000639,NULL,,Nickie,Aiken,Nickie Aiken,Cities of London and Westminster,Ms Aiken,nickie.aiken.mp@parliament.uk,NULL,Nickie-Aiken,Cities-of-London-and-Westminster
+E14001051,NULL,,Stuart,Anderson,Stuart Anderson,Wolverhampton South West,Mr Anderson,stuart.anderson.mp@parliament.uk,NULL,Stuart-Paul-Anderson,Wolverhampton-South-West
+E14000795,NULL,,Paula,Barker,Paula Barker,Liverpool,,,,,
+E14001005,NULL,,Munira,Wilson,Munira Wilson,Twickenham,Ms Wilson,munira.wilson.mp@parliament.uk,NULL,Munira-Wilson,Twickenham
+N06000002,NULL,,John,Finucane,John Finucane,Belfast North,Mr Finucane,john.finucane.mp@parliament.uk,NULL,John-Finucane,Belfast-North
+E14001009,NULL,,Imran,Khan,Imran Ahmad Khan,Wakefield,Mr Khan,imran.mp@parliament.uk,NULL,Imran-Nasir-Ahmad-Khan,Wakefield
+E14000800,NULL,,Sarah,Owen,Sarah Owen,Luton North,Ms Owen,sarah.owen.mp@parliament.uk,NULL,Sarah-Owen,Luton-North
+W07000075,NULL,,Alex,Davies-Jones,Alex Davies-Jones,Pontypridd,Mrs Davies-Jones,alex.daviesjones.mp@parliament.uk,NULL,Alex-Davies-Jones,Pontypridd
+E14000747,NULL,,Chris,Clarkson,Chris Clarkson,Heywood and Middleton,Mr Clarkson,chris.clarkson.mp@parliament.uk,NULL,Chris-Clarkson,Heywood-and-Middleton
+W07000070,NULL,,Beth,Winter,Beth Winter,Cynon Valley,Ms Winter,beth.winter.mp@parliament.uk,NULL,Beth-Winter,Cynon-Valley
+E14000719,NULL,,Angela,Richardson,Angela Joy Richardson,Guildford,Ms Richardson,angela.richardson.mp@parliament.uk,NULL,Angela-Joy-Richardson,Guildford
+E14001021,NULL,,Dean,Russell,Dean Russell,Watford,Mr Russell,dean.russell.mp@parliament.uk,NULL,Dean-Russell,Watford
+W07000073,NULL,,Jamie,Wallis,Jamie Wallis,Bridgend,Mr Wallis,jamie.wallis.mp@parliament.uk,NULL,Jamie-Hamilton-Wallis,Bridgend
+E14000943,NULL,,Katherine,Fletcher,Katherine Fletcher,South Ribble,Ms Fletcher,katherine.fletcher.mp@parliament.uk,NULL,Katherine-Fletcher,South-Ribble
+E14000670,NULL,,Natalie,Elphicke,Natalie Elphicke,Dover,Mrs Elphicke,natalie.elphicke.mp@parliament.uk,NULL,Natalie-Elphicke,Dover
+W07000058,NULL,,Robin,Millar,Robin John Millar,Aberconwy,Mr Millar,robin.millar.mp@parliament.uk,NULL,Robin-John-Millar,Aberconwy
+E14000641,NULL,,Mary,Foy,Mary Foy,City of Durham,Ms Foy,mary.foy.mp@parliament.uk,NULL,Mary-Foy,City-of-Durham
+E14001029,NULL,,Nicola,Richards,Nicola Faye Richards,West Bromwich East,Ms Richards,nicola.richards.mp@parliament.uk,NULL,Nicola-Faye-Richards,West-Bromwich-East
+E14000830,NULL,,Laura,Farris,Laura Farris,Newbury,Ms Farris,laura.farris.mp@parliament.uk,NULL,Laura-Farris,Newbury
+E14000969,NULL,,Navendu,Mishra,Navendu Mishra,Stockport,Ms Mishra,navendu.mishra.mp@parliament.uk,NULL,Navendu-Mishra,Stockport
+E14000710,NULL,,Tom,Randall,Tom Randall,Gedling,Mr Randall,tom.randall.mp@parliament.uk,NULL,Tom-Randall,Gedling
+E14000980,NULL,,Siobhan,Baillie,Siobhan Baillie,Stroud,Ms Baillie,siobhan.baillie.mp@parliament.uk,NULL,Siobhan-Baillie,Stroud
+E14000610,NULL,,Kate,Griffiths,Kate Griffiths,Burton,Ms Griffiths,kate.griffiths.mp@parliament.uk,NULL,Kate-Griffiths,Burton
+E14001046,65622,,Robert,Courts,Robert Courts,Witney,Mr Courts,robert.courts.mp@parliament.uk,NULL,Robert-Alexander-Courts,Witney
+E14000748,NULL,,Robert,Largan,Robert Largan,High Peak,Mr Largan,robert.largan.mp@parliament.uk,NULL,Robert-Largan,High-Peak
+E14000609,NULL,,Antony,Higginbotham,Antony Higginbotham,Burnley,Mr Higginbotham,antony.higginbotham.mp@parliament.uk,NULL,Antony-Higginbotham,Burnley
+W07000041,NULL,,Virginia,Crosbie,Virginia Crosbie,Ynys Mon,Ms Crosbie,virginia.crosbie.mp@parliament.uk,NULL,Virginia-Crosbie,Ynys-Mon
+E14000848,NULL,,Duncan,Baker,Duncan Charles Baker,North Norfolk,Mr Baker,duncan.baker.mp@parliament.uk,NULL,Duncan-Charles-Baker,North-Norfolk
+E14000865,NULL,,Nadia,Whittome,Nadia Whittome,Nottingham East,Ms Whittome,nadia.whittome.mp@parliament.uk,NULL,Nadia-Whittome,Nottingham-East
+E14000696,NULL,,Abena,Oppong-Asare,Abena Oppong-Asare,Erith and Thamesmead,Ms Oppong-Asare,abena.oppongasare.mp@parliament.uk,NULL,Abena-Oppong-Asare,Erith-and-Thamesmead
+E14000812,NULL,,Saqib,Bhatti,Saqib Bhatti,Meriden,Mr Bhatti,saqib.bhatti.mp@parliament.uk,NULL,Saqib-Bhatti,Meriden
+S14000057,NULL,,Alyn,Smith,Alyn Smith,Stirling,Mr Smith,alyn.smith.mp@parliament.uk,NULL,Alyn-Smith,Stirling
+N06000013,66136,,Stephen,Farry,Stephen Anthony Farry,North Down,Mr Farry,stephen.farry.mp@parliament.uk,NULL,Stephen-Anthony-Farry,North-Down
+E14000934,NULL,,Anthony,Browne,Anthony Browne,South Cambridgeshire,Mr Browne,anthony.browne.mp@parliament.uk,NULL,Anthony-Browne,South-Cambridgeshire
+E14000918,NULL,,Laura,Trott,Laura Trott,Sevenoaks,Ms Trott,laura.trott.mp@parliament.uk,NULL,Laura-Trott,Sevenoaks
+W07000042,NULL,,Rob,Roberts,Rob Roberts,Delyn,Mr Roberts,rob.roberts.mp@parliament.uk,NULL,Rob-Roberts,Delyn
+E14000971,NULL,,Matt,Vickers,Matt Vickers,Stockton South,Mr Vickers,matt.vickers.mp@parliament.uk,NULL,Matt-Vickers,Stockton-South
+E14000908,NULL,,Ruth,Edwards,Ruth Edwards,Rushcliffe,Mrs Edwards,ruth.edwards.mp@parliament.uk,NULL,Ruth-Edwards,Rushcliffe
+E14000915,NULL,,Paul,Howell,Paul Howell,Sedgefield,Mr Howell,paul.howell.mp@parliament.uk,NULL,Paul-Howell,Sedgefield
+E14000978,NULL,,Bell,Ribeiro-Addy,Bell Ribeiro-Addy,Streatham,Ms Riberio-Addy,bell.ribeiroaddy.mp@parliament.uk,NULL,Bell-Ribeiro-Addy,Streatham
+E14000930,NULL,,Tan,Dhesi,Tan Dhesi,Slough,Mr Singh Dhesi,tan.dhesi.mp@parliament.uk,NULL,Tanmanjit-Singh-Dhesi,Slough
+E14000714,NULL,,Gareth,Davies,Gareth Davies,Grantham and Stamford,Mr Davies-Jones,gareth.davies.mp@parliament.uk,NULL,Gareth-Davies,Grantham-and-Stamford
+E14000667,NULL,,Nicholas,Fletcher,Nicholas Fletcher,Don Valley,Mr Fletcher,nick.fletcher.mp@parliament.uk,NULL,Nicholas-Fletcher,Don-Valley
+E14000586,NULL,,James,Sunderland,James Sunderland,Bracknell,Mr Sunderland,james.sunderland.mp@parliament.uk,NULL,James-Sunderland,Bracknell
+S14000011,NULL,,Steven,Bonnar,Steven Bonnar,Coatbridge,,,,,
+E14000546,NULL,,Brendan,Clarke-Smith,Brendan Clarke-Smith,Bassetlaw,Mr Clarke-Smith,brendan.clarkesmith.mp@parliament.uk,NULL,Brendan-Clarke-Smith,Bassetlaw
+S14000018,NULL,,Amy,Callaghan,Amy Callaghan,East Dunbartonshire,Ms Callaghan,amy.callaghan.mp@parliament.uk,NULL,Amy-Callaghan,East-Dunbartonshire
+E14000903,NULL,,Alexander,Stafford,Alexander Stafford,Rother Valley,Mr Stafford,alexander.stafford.mp@parliament.uk,NULL,Alexander-Stafford,Rother-Valley
+E14000716,NULL,,Lia,Nici,Lia Nici,Great Grimsby,Ms Nici,lia.nici.mp@parliament.uk,NULL,Lia-Nici,Great-Grimsby
+E14000859,NULL,,James,Wild,James Wild,North West Norfolk,Mr Wild,james.wild.mp@parliament.uk,NULL,James-Wild,North-West-Norfolk
+S14000002,NULL,,Stephen,Flynn,Stephen Flynn,Aberdeen South,Mr Flynn,stephen.flynn.mp@parliament.uk,NULL,Stephen-Flynn,Aberdeen-South
+E14001001,NULL,,Anthony,Mangnall,Anthony Mangnall,Totnes,Mr Mangnall,anthony.mangnall.mp@parliament.uk,NULL,Anthony-Mangnall,Totnes
+E14000543,NULL,,Simon,Fell,Simon Fell,Barrow and Furness,Mr Fell,simon.fell.mp@parliament.uk,NULL,Simon-Fell,Barrow-and-Furness
+S14000006,NULL,,Allan,Dorans,Allan Dorans,Ayr,,,,,
+E14000607,NULL,,Darren,Henry,Darren Henry,Broxtowe,Mr Henry,darren.henry.mp@parliament.uk,NULL,Darren-George-Henry,Broxtowe
+S14000049,NULL,,Wendy,Chamberlain,Wendy Chamberlain,North East Fife,Ms Chamberlain,wendy.chamberlain.mp@parliament.uk,NULL,Wendy-Chamberlain,North-East-Fife
+S14000041,NULL,,Neale,Hanvey,Neale Hanvey,Kirkcaldy and Cowdenbeath,Mr Hanvey,neale.hanvey.mp@parliament.uk,NULL,Neale-Hanvey,Kirkcaldy-and-Cowdenbeath
+E14000612,NULL,,Christian,Wakeford,Christian Wakeford,Bury South,Mr Wakeford,christian.wakeford.mp@parliament.uk,NULL,Christian-Wakeford,Bury-South
+E14000877,NULL,,Neil,Hudson,Neil Hudson,Penrith and The Border,Dr Hudson,neil.hudson.mp@parliament.uk,NULL,Neil-Hudson,Penrith-and-The-Border
+E14000758,NULL,,Sara,Britcliffe,Sara Britcliffe,Hyndburn,Ms Britcliffe,sara.britcliffe.mp@parliament.uk,NULL,Sara-Britcliffe,Hyndburn
+E14000664,NULL,,Sarah,Dines,Sarah Dines,Derbyshire Dales,Ms Dines,sarah.dines.mp@parliament.uk,NULL,Sarah-Elizabeth-Dines,Derbyshire-Dales
+E14000550,NULL,,Joy,Morrissey,Joy Morrissey,Beaconsfield,Ms Morrissey,joy.morrissey.mp@parliament.uk,NULL,Joy-Morrissey,Beaconsfield
+E14000744,NULL,,Julie,Marson,Julie Marson,Hertford and Stortford,Ms Marson,julie.marson.mp@parliament.uk,NULL,Julie-Marson,Hertford-and-Stortford
+E14000838,NULL,,Selaine,Saxby,Selaine Saxby,North Devon,Ms Saxby,selaine.saxby.mp@parliament.uk,NULL,Selaine-Saxby,North-Devon
+W07000068,NULL,,Fay,Jones,Fay Alicia Jones,Brecon and Radnorshire,Ms Jones,fay.jones.mp@parliament.uk,NULL,Fay-Alicia-Jones,Brecon-and-Radnorshire
+E14000972,NULL,,Jo,Gideon,Jo Gideon,Stoke-on-Trent Central,Ms Gideon,jo.gideon.mp@parliament.uk,NULL,Jo-Gideon,Stoke-on-Trent-Central
+E14000653,NULL,,Kieran,Mullan,Kieran Mullan,Crewe and Nantwich,Mr Mullan,kieran.mullan.mp@parliament.uk,NULL,Kieran-John-Mullan,Crewe-and-Nantwich
+E14001018,NULL,,Andy,Carter,Andy Carter,Warrington South,Mr Carter,andy.carter.mp@parliament.uk,NULL,Andy-Carter,Warrington-South
+E14001017,NULL,,Charlotte,Nichols,Charlotte Nichols,Warrington North,Ms Nichols,charlotte.nichols.mp@parliament.uk,NULL,Charlotte-Nichols,Warrington-North
+E14000578,NULL,,Mark,Logan,Mark Logan,Bolton North East,Mr Logan,mark.logan.mp@parliament.uk,NULL,Mark-Logan,Bolton-North-East
+E14000565,NULL,,Gary,Sambrook,Gary Sambrook,Birmingham,,,,,
+E14000562,NULL,,Tahir,Ali,Tahir Ali,Birmingham,,,,,
+E14000907,NULL,,Ben,Spencer,Ben Spencer,Runnymede and Weybridge,Dr Spencer,ben.spencer.mp@parliament.uk,NULL,Ben-Spencer,Runnymede-and-Weybridge
+E14000681,NULL,,Claire,Coutinho,Claire Coutinho,East Surrey,Ms Coutinho,claire.coutinho.mp@parliament.uk,NULL,Claire-Coryl-Julia-Coutinho,East-Surrey
+E14000768,NULL,,Felicity,Buchan,Felicity Buchan,Kensington,Ms Buchan,felicity.buchan.mp@parliament.uk,NULL,Felicity-Buchan,Kensington
+E14000906,NULL,,David,Simmonds,David Simmonds,Ruislip,,,,,
+E14000856,NULL,,Richard,Holden,Richard Holden,North West Durham,Mr Holden,richard.holden.mp@parliament.uk,NULL,Richard-Holden,North-West-Durham
+E14000535,NULL,,Lee,Anderson,Lee Anderson,Ashfield,Mr Anderson,lee.anderson.mp@parliament.uk,NULL,Lee-Anderson,Ashfield
+E14000538,NULL,,Rob,Butler,Rob Butler,Aylesbury,Mr Butler,rob.butler.mp@parliament.uk,NULL,Rob-Butler,Aylesbury
+E14000691,NULL,,Feryal,Clark,Feryal Clark,Enfield North,Ms Clark,feryal.clark.mp@parliament.uk,NULL,Feryal-Clark,Enfield-North
+E14000876,NULL,,Miriam,Cates,Miriam Joy Cates,Penistone and Stocksbridge,Ms Cates,miriam.cates.mp@parliament.uk,NULL,Miriam-Joy-Cates,Penistone-and-Stocksbridge
+E14000973,NULL,,Jonathan,Gullis,Jonathan Edward Gullis,Stoke-on-Trent North,Mr Gullis,jonathan.gullis.mp@parliament.uk,NULL,Jonathan-Edward-Gullis,Stoke-on-Trent-North
+E14000974,NULL,Mr,Jack,Brereton,Jack Edgar Brereton,Stoke-on-Trent South,Mr Brereton,jack.brereton.mp@parliament.uk,jack@jackbrereton.co.uk,Jack-Edgar-Brereton,Stoke-on-Trent-South
+E14000965,NULL,,Theo,Clarke,Theo Clarke,Stafford,Ms Clarke,theo.clarke.mp@parliament.uk,NULL,Theo-Clarke,Stafford
+E14000960,NULL,,Daisy,Cooper,Daisy Cooper,St Albans,Ms Cooper,daisy.cooper.mp@parliament.uk,NULL,Daisy-Cooper,St-Albans
+E14000735,NULL,,Sally-Ann,Hart,Sally-Ann Hart,Hastings and Rye,Ms Hart,sallyann.hart.mp@parliament.uk,NULL,Sally-Ann-Hart,Hastings-and-Rye
+E14000577,NULL,,Mark,Fletcher,Mark Fletcher,Bolsover,Mr Fletcher,mark.fletcher.mp@parliament.uk,NULL,Mark-Fletcher,Bolsover
+E14000603,NULL,,Jerome,Mayhew,Jerome Mayhew,Broadland,Mr Mayhew,jerome.mayhew.mp@parliament.uk,NULL,Jerome-Mayhew,Broadland
+E14000611,NULL,,James,Daly,James Daly,Bury North,Mr Daly,james.daly.mp@parliament.uk,NULL,James-Daly,Bury-North
+E14000909,NULL,,Alicia,Kearns,Alicia Kearns,Rutland and Melton,Ms Kearns,alicia.kearns.mp@parliament.uk,NULL,Alicia-Kearns,Rutland-and-Melton
+E14000621,NULL,,Elliot,Colburn,Elliot Colburn,Carshalton and Wallington,Mr Colburn,elliot.colburn.mp@parliament.uk,NULL,Elliot-Colburn,Carshalton-and-Wallington
+E14000922,NULL,,Olivia,Blake,Olivia Frances Blake,Sheffield,,,,,
+E14000651,NULL,,Zarah,Sultana,Zarah Sultana,Coventry South,Ms Sultana,zarah.sultana.mp@parliament.uk,NULL,Zarah-Sultana,Coventry-South
+E14000821,NULL,,Ben,Everitt,Ben Everitt,Milton Keynes North,Mr Everitt,ben.everitt.mp@parliament.uk,NULL,Ben-Everitt,Milton-Keynes-North
+E14000678,NULL,,Simon,Jupp,Simon Jupp,East Devon,Mr Jupp,simon.jupp.mp@parliament.uk,NULL,Simon-Jupp,East-Devon
+E14000760,NULL,,Sam,Tarry,Sam Tarry,Ilford South,Mr Tarry,sam.tarry.mp@parliament.uk,NULL,Sam-Tarry,Ilford-South
+E14000665,NULL,,Danny,Kruger,Danny Kruger,Devizes,Mr Kruger,danny.kruger.mp@parliament.uk,NULL,Danny-Kruger,Devizes
+E14000882,NULL,,Apsana,Begum,Apsana Begum,Poplar and Limehouse,Ms Begum,apsana.begum.mp@parliament.uk,NULL,Apsana-Begum,Poplar-and-Limehouse
+E14000650,NULL,,Taiwo,Owatemi,Taiwo Owatemi,Coventry North West,Ms Owatemi,taiwo.owatemi.mp@parliament.uk,NULL,Taiwo-Owatemi,Coventry-North-West
+E14000834,NULL,,Aaron,Bell,Aaron Bell,Newcastle-under-Lyme,Mr Bell,aaron.bell.mp@parliament.uk,NULL,Aaron-Bell,Newcastle-under-Lyme
+E14000671,NULL,,Marco,Longhi,Marco Longhi,Dudley North,Mr Longhi,marco.longhi.mp@parliament.uk,NULL,Marco-Longhi,Dudley-North
+E14001031,NULL,,Chris,Loder,Chris Loder,West Dorset,Mr Loder,hello@chrisloder.co.uk,NULL,Chris-Loder,West-Dorset
+S14000037,NULL,,Richard,Thomson,Richard Gordon Thomson,Gordon,Mr Thomson,richard.thomson.mp@parliament.uk,NULL,Richard-Gordon-Thomson,Gordon
+E14000951,NULL,,Gagan,Mohindra,Gagan Mohindra,South West Hertfordshire,Mr Mohindra,gagan.mohindra.mp@parliament.uk,NULL,Gagan-Mohindra,South-West-Hertfordshire
+E14000797,NULL,,Jane,Hunt,Jane Hunt,Loughborough,Ms Hunt,jane.hunt.mp@parliament.uk,NULL,Jane-Hunt,Loughborough
+E14000766,NULL,,Robbie,Moore,Robbie Moore,Keighley,Mr Moore,robbie.moore.mp@parliament.uk,NULL,Robbie-Moore,Keighley
+E14000666,NULL,,Mark,Eastwood,Mark Eastwood,Dewsbury,Mr Eastwood,mark.eastwood.mp@parliament.uk,NULL,Mark-Eastwood,Dewsbury
+E14001015,NULL,,David,Johnston,David Johnston,Wantage,Mr Johnston,david.johnston.mp@parliament.uk,NULL,David-Johnston,Wantage
+E14000608,NULL,,Greg,Smith,Greg Smith,Buckingham,Mr Smith,greg.smith.mp@parliament.uk,NULL,Greg-Smith,Buckingham
+E14000976,NULL,,Suzanne,Webb,Suzanne Webb,Stourbridge,Ms Webb,suzanne.webb.mp@parliament.uk,NULL,Suzanne-Webb,Stourbridge
+E14000534,NULL,,Andrew,Griffith,Andrew Griffith,Arundel and South Downs,Mr Griffith,andrew.griffith.mp@parliament.uk,NULL,Andrew-Griffith,Arundel-and-South-Downs

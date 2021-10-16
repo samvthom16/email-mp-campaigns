@@ -1,19 +1,19 @@
 <?php
 
-class GF_Field_AreaName extends GF_Field {
+class GF_Field_MP extends GF_Field {
 
-    public $type = 'areaname';
+    public $type = 'mp';
 
     public function get_form_editor_field_title() {
-      return esc_attr__( 'Area Name', 'gravityforms' );
+      return esc_attr__( 'Member Of Parliament', 'gravityforms' );
     }
 
     public function get_form_editor_field_description() {
-  		return esc_attr__( 'Show area name after the user puts in the area code.', 'gravityforms' );
+  		return esc_attr__( 'Show the member of parliament after the user puts in the area code.', 'gravityforms' );
   	}
 
     public function get_form_editor_field_icon() {
-  		return 'gform-icon--place';
+  		return 'gform-icon--name-2';
   	}
 
     function get_form_editor_field_settings() {
@@ -42,15 +42,11 @@ class GF_Field_AreaName extends GF_Field {
     }
 
     public function get_field_input( $form, $value = '', $entry = null ) {
-      //echo "<pre>";
-      //print_r( $this );
-      //echo "</pre>";
-      $areacodeInputID = rgar( $this, 'areaCodeInputID' );
-      $areacode = rgpost( $areacodeInputID );
-      $value = apply_filters( 'emc_areaname_value', $areacode );
-      $code = apply_filters( 'emc_areacode_value', $areacode );
-      return "&nbsp;<span>$value $code</span>";
+      $areaCodeInputID = $this->areaCodeInputID;
+      $areacode = rgpost( $areaCodeInputID );
+      $mp = apply_filters( 'emc_mp_value', $areacode );
+      return "&nbsp;<span>" . $mp[9] . $mp[5] . "</span>";
     }
 
 }
-GF_Fields::register( new GF_Field_AreaName() );
+GF_Fields::register( new GF_Field_MP() );
