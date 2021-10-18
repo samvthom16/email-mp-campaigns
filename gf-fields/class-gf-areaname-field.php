@@ -41,18 +41,33 @@ class GF_Field_AreaName extends GF_Field {
       return $script;
     }
 
-    public function get_field_input( $form, $value = '', $entry = null ) {
-      $areacodeInputID = rgar( $this, 'areaCodeInputID' );
-      $areacode = rgpost( $areacodeInputID );
-      $value = apply_filters( 'emc_areaname_value', $areacode );
-      $code = apply_filters( 'emc_areacode_value', $areacode );
+    function getAreaCodeFromUserInput(){ $areacodeInputID = rgar( $this, 'areaCodeInputID' ); return rgpost( $areacodeInputID ); }
+    function getUniqueCode(){ return apply_filters( 'emc_areacode_value', $this->getAreaCodeFromUserInput() ); }
+    function getUniqueCodeName(){ return apply_filters( 'emc_areaname_value', $this->getAreaCodeFromUserInput() ); }
 
+    public function get_field_label( $force_frontend_label, $value ) {
+  		$label = $force_frontend_label ? $this->label : GFCommon::get_label( $this );
+
+  		if ( '' === $label ) {
+  			if ( '' !== rgar( $this, 'placeholder' ) ) {
+  				$label = $this->get_placeholder_value( $this->placeholder );
+  			} elseif ( '' !== $this->description ) {
+  				$label = wp_strip_all_tags( $this->description );
+  			}
+  		}
+
+      $label .= ' ' . $this->getUniqueCodeName();
+
+  		return $label;
+  	}
+
+    public function get_field_input( $form, $value = '', $entry = null ) {
+      $code = $this->getUniqueCode();
       $form_id  = $form['id'];
   		$id       = intval( $this->id );
       $field_id = $form_id == 0 ? "input_$id" : 'input_' . $form_id . "_$id";
       $field_markup = "<input type='hidden' name='input_{$id}' id='{$field_id}' value='{$code}' />";
-
-      return "&nbsp;<span>$value</span>{$field_markup}";
+      return $field_markup;
     }
 
 }

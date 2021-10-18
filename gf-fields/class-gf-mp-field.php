@@ -41,22 +41,32 @@ class GF_Field_MP extends GF_Field {
       return $script;
     }
 
-    public function get_field_input( $form, $value = '', $entry = null ) {
-      $areaCodeInputID = $this->areaCodeInputID;
-      $areacode = rgpost( $areaCodeInputID );
-      $mp = apply_filters( 'emc_mp_value', $areacode );
+    function getAreaCodeFromUserInput(){ return rgpost( $this->areaCodeInputID ); }
+    function getMP(){ return apply_filters( 'emc_mp_value', $this->getAreaCodeFromUserInput() ); }
+    function getMPName(){ $mp = $this->getMP(); return $mp[5]; }
+    function getMPEmail(){ $mp = $this->getMP(); return $mp[9]; }
 
+    public function get_field_label( $force_frontend_label, $value ) {
+  		$label = $force_frontend_label ? $this->label : GFCommon::get_label( $this );
+      if ( '' === $label ) {
+  			if ( '' !== rgar( $this, 'placeholder' ) ) {
+  				$label = $this->get_placeholder_value( $this->placeholder );
+  			} elseif ( '' !== $this->description ) {
+  				$label = wp_strip_all_tags( $this->description );
+  			}
+  		}
+
+      $label .= ' ' . $this->getMPName();
+      return $label;
+  	}
+
+    public function get_field_input( $form, $value = '', $entry = null ) {
+      $mp_email = $this->getMPEmail();
       $form_id  = $form['id'];
   		$id       = intval( $this->id );
       $field_id = $form_id == 0 ? "input_$id" : 'input_' . $form_id . "_$id";
-
-      $field_markup = "<input type='hidden' name='input_{$id}' id='{$field_id}' value='{$mp[9]}' />";
-
-      $mp_name = $mp[5];
-
-      return "<p style='margin-top:0;'>{$mp_name}{$field_markup}</p>";
-
-
+      $field_markup = "<input type='hidden' name='input_{$id}' id='{$field_id}' value='{$mp_email}' />";
+      return "<p style='margin-top:0;'>{$field_markup}</p>";
     }
 
 }
