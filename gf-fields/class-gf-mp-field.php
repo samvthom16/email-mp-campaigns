@@ -45,7 +45,18 @@ class GF_Field_MP extends GF_Field {
       $areaCodeInputID = $this->areaCodeInputID;
       $areacode = rgpost( $areaCodeInputID );
       $mp = apply_filters( 'emc_mp_value', $areacode );
-      return "&nbsp;<span>" . $mp[9] . $mp[5] . "</span>";
+
+      $form_id  = $form['id'];
+  		$id       = intval( $this->id );
+      $field_id = $form_id == 0 ? "input_$id" : 'input_' . $form_id . "_$id";
+
+      $field_markup = "<input type='hidden' name='input_{$id}' id='{$field_id}' value='{$mp[9]}' />";
+
+      $mp_name = $mp[5];
+
+      return "<p style='margin-top:0;'>{$mp_name}{$field_markup}</p>";
+
+
     }
 
 }

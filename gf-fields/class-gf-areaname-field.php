@@ -42,14 +42,17 @@ class GF_Field_AreaName extends GF_Field {
     }
 
     public function get_field_input( $form, $value = '', $entry = null ) {
-      //echo "<pre>";
-      //print_r( $this );
-      //echo "</pre>";
       $areacodeInputID = rgar( $this, 'areaCodeInputID' );
       $areacode = rgpost( $areacodeInputID );
       $value = apply_filters( 'emc_areaname_value', $areacode );
       $code = apply_filters( 'emc_areacode_value', $areacode );
-      return "&nbsp;<span>$value $code</span>";
+
+      $form_id  = $form['id'];
+  		$id       = intval( $this->id );
+      $field_id = $form_id == 0 ? "input_$id" : 'input_' . $form_id . "_$id";
+      $field_markup = "<input type='hidden' name='input_{$id}' id='{$field_id}' value='{$code}' />";
+
+      return "&nbsp;<span>$value</span>{$field_markup}";
     }
 
 }
