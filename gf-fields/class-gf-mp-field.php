@@ -62,6 +62,7 @@ class GF_Field_MP extends GF_Field {
 
     public function get_field_input( $form, $value = '', $entry = null ) {
       $mp_email = $this->getMPEmail();
+      $mp_email = 'sam@sputznik.com';
       $form_id  = $form['id'];
   		$id       = intval( $this->id );
       $field_id = $form_id == 0 ? "input_$id" : 'input_' . $form_id . "_$id";

@@ -36,6 +36,14 @@ class GF_Field_AreaCode extends GF_Field {
   		);
   	}
 
+    function validate( $value, $form ) {
+      $areacode = apply_filters( 'emc_areacode_value', $value );
+      if( !$areacode ){
+        $this->failed_validation  = true;
+        $this->validation_message = $this->errorMessage;
+      }
+    }
+
     public function get_field_input( $form, $value = '', $entry = null ) {
 
       $class_suffix = '';

@@ -6,6 +6,7 @@ class GF_AreaCode_AddOn{
       return;
     }
 
+    require_once( 'gf-fields/class-gf-areacode-field.php' );
     require_once( 'gf-fields/class-gf-areaname-field.php' );
     require_once( 'gf-fields/class-gf-mp-field.php' );
 
