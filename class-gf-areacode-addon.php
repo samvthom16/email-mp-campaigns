@@ -9,6 +9,7 @@ class GF_AreaCode_AddOn{
     require_once( 'gf-fields/class-gf-areacode-field.php' );
     require_once( 'gf-fields/class-gf-areaname-field.php' );
     require_once( 'gf-fields/class-gf-mp-field.php' );
+    require_once( 'gf-fields/class-gf-mp-signed-field.php' );
 
     add_action( 'gform_field_standard_settings', 'GF_AreaCode_AddOn::add_standard_settings', 10, 2 );
 
