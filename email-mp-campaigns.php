@@ -3,7 +3,7 @@
 	Plugin Name: Campaign Email to MPs
 	Plugin URI: https://sputznik.com/
 	Description: Send campaign emails to the MP based on post code
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Samuel Thomas, Sputznik
 	Author URI: https://sputznik.com/
 */
